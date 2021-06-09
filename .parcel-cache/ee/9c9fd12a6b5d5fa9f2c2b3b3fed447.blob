@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title></title>
+    <link rel="stylesheet" href="/index.HASH_REF_3266f35b225651ee0ffc16ce31d26d56.css">
+  </head>
+  <body>
+      <!--header-->
+      <header class="bg-NavImg">
+          <nav class="navbar">
+              <div class="container">
+                  <div class="navbar-nav">
+                      <Button class="button"> <a href=""><b>Home</b></a> </Button>
+                      <Button class="button"> <a href=""><b>Blogs</b></a> </Button>
+                      <Button class="button"> <a href=""><b>About</b></a> </Button>
+                 </div>
+              </div>
+          </nav>
+
+
+
+          <div class="banner">
+            <div class="container">
+              <h1 class="banner-title">
+                <container class="container-pill"><h2>The journey of a UX Designer apprentice</h2></container>
+              </h1>
+               <container class="container-pill">"People ignore design that ignores people"</container>
+            </div>
+          </div>
+      </header>
+
+      <!--end of header-->
+      <container>
+         
+      </container>
+  </body>
+</html><script src="/index.HASH_REF_1cf92b8ac789bf0c8bd4b6d53ebff041.js"></script>

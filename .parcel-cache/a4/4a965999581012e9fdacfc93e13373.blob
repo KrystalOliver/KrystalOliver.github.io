@@ -1,0 +1,64 @@
+<!--FOR ALL NONHOME PAGES-->
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title></title>
+    <link rel="stylesheet" href="/index.HASH_REF_3266f35b225651ee0ffc16ce31d26d56.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+
+<body class="bg-NavBarSmall">
+    <!--header-->
+    <header>
+        <nav class="navbar">
+            <div class="container">
+                <div class="navbar-nav">
+                    <Button class="button"> <a href="/index.html"><b>Home</b></a> </Button>
+                    <Button class="button"> <a href="/Blogs.html"><b>Blogs</b></a> </Button>
+                    <Button class="button"> <a href="/About.html"><b>About</b></a> </Button>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+</body>
+
+<!--FOR ALL NONHOME PAGES-->
+
+<body style="background-color: #ECECEA;
+">
+    <div class="containerBlogs">
+        <section class="design-blog-text">
+            <h3>HTML elements and Semantic HTML</h3>
+            <h4>Posted on June 7, 2021</h4>
+        </section>
+        <img class="design-imgBlog" src="/HTMLonlaptopAesthetic.HASH_REF_daf415b7e798b6c81a6b9f3b113db548.jpg" alt="For Decoration, laptop showing code on the screen. Aesthetic plants, candle and coffee in background">
+        <article class="design-blog-text">
+            <p class="has-dropcap">The internet has become a vital part of everyday life, and plenty of people share
+                everything online or advertise their products or services with multiple web-based platforms. Because of
+                the ease of use of the internet and the wealth of knowledge that is stored on there, a lot of people can
+                start to build their own websites, blogs, or platforms for their needs.
+            </p>
+            <p>Originally there were only a few specialized people who really knew how to build things for the web and
+                because of that there came a huge insurgence of sites that would build things for you, such as Wix and
+                Squarespace. They build a whole site or page for you without you knowing anything at all about coding or
+                how the internet works, all for a fee. Along with the added fees of the sites you also had a limited
+                flexibility of how your content was presented but over the years it has become easier for the every-day
+                person to understand how to code and build things from scratch.</p>
+            <p>It is now more than possible that someone could watch a few youtube videos on HTML and CSS and get
+                started on building their own sites, spending less money and having full flexibility. The problem is
+                that a lot of people get overwhelmed by the amount of tags and elements that HTML has and they get
+                discouraged from trying to code. They are not scary, though! They have even gotten easier to read and
+                format over the years, so here is a collection of different tags and their uses and definitions to help
+                you get started.</p>
+            <p>The Metadata elements are usually at the start of a file, it helps set up a page or site, most of these
+                will be needed for all coding projects.</p>
+            <h3>Root Element</h3> <p> contains the whole document </p>
+
+        </article>
+    </div>
+
+</body><script src="/BlogPosts/HTML-Elements.HASH_REF_0605927553b68362dce4f093e76956d8.js"></script>

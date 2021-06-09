@@ -1,0 +1,43 @@
+
+<!--FOR ALL NONHOME PAGES-->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title></title>
+    <link rel="stylesheet" href="fffd3ecb2ce0f959c68ab8e13c3ab5ac">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+
+<body class="bg-NavBarSmall">
+    <!--header-->
+    <header>
+        <nav class="navbar">
+            <div class="container">
+                <div class="navbar-nav">
+                    <Button class="button"> <a href="92cfcaba1ead70cb7ad9dea961cf3016"><b>Home</b></a> </Button>
+                    <Button class="button"> <a href="b00dd17cc9f6aecd760740e003796d35"><b>Blogs</b></a> </Button>
+                    <Button class="button"> <a href="07d2c88de2a8e3a8521ee473971a8d99"><b>About</b></a> </Button>
+                </div>
+            </div>
+        </nav>
+    </header>
+</body>
+<!--FOR ALL NONHOME PAGES-->
+
+<body style="7b024c17a50b97262f812dd03337b3be">
+    <div class="containerBlogs">
+        <div class="design-blog-text">
+            <h3>Accessibility Design</h3>
+            <h4>Posted on June 6, 202</h4>
+        </div>
+        <img class="design-imgBlog" src="1b80a4f23c99344ef64d0f6e6132b236" alt="">
+        <div class="design-blog-text">
+            <article>
+               
+            </article>
+        </div>
+    </div>
+    
+</body><script src="fc2aa31f8a7da00dbf2ae832f6418f8a"></script>

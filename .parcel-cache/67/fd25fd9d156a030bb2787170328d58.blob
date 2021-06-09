@@ -1,0 +1,51 @@
+<!--FOR ALL NONHOME PAGES-->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title></title>
+    <link rel="stylesheet" href="/index.HASH_REF_3266f35b225651ee0ffc16ce31d26d56.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+
+<body class="bg-NavBarSmall">
+    <!--header-->
+    <header>
+        <nav class="navbar">
+            <div class="container">
+                <div class="navbar-nav">
+                    <Button class="button"> <a href="/index.html"><b>Home</b></a> </Button>
+                    <Button class="button"> <a href="/Blogs.html"><b>Blogs</b></a> </Button>
+                    <Button class="button"> <a href="/About.html"><b>About</b></a> </Button>
+                </div>
+            </div>
+        </nav>
+    </header>
+</body>
+<!--FOR ALL NONHOME PAGES-->
+
+<body style="background-color: #ECECEA;
+">
+    <div class="center">
+        <div class="design-text-blogsPG">
+            <h1>All Blog Posts</h1>
+            <a href="/BlogPosts/Ethics.html" class="design-front-textName">Ethics in Design</a>
+            <p>Ethics are important for every designer to think about when they are working, design can always be used in ways other than intended . . .</p>
+            <small>June 4, 2021</small>
+
+            <a href="/BlogPosts/Accessibility.html"><h3 class="design-front-textName">Accessibility Design</h3></a>
+            <p>Accessibility is a must for all designers to understand and apply to their work, take a look at my presentation on the subject . . .</p>
+            <small>June 6, 2021</small>
+
+            <a href="/BlogPosts/FormDesign.html"><h3 class="design-front-textName">Form Design</h3></a>
+            <p>Forms are seen as a boring necessity for people but the thought behind them can be quite interesting and worth a deeper look . . .</p>
+            <small>June 5, 2021</small>
+
+            <a href="/BlogPosts/GridsGoldenRatio.html"><h3 class="design-front-textName">Grids and the Golden Ratio</h3></a>
+            <p>Designing on a grid can bring your design to the next level and using the golden ratio can help make any design aesthetic . . .</p>
+            <small>June 9, 2021</small>
+        </div>
+    </div>
+
+</body><script src="/Blogs.HASH_REF_5cfb45cb93b36cec90814d968e63622c.js"></script>

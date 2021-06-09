@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title></title>
+    <link rel="stylesheet" href="816546fc4eb5b8c75beccb21d487cca0">
+  </head>
+  <body class="bg-NavImg">
+      <!--header-->
+      <header>
+          <nav class="navbar">
+              <div class="container">
+                  <div class="navbar-nav">
+                      <Button class="button"> <a href="">Home</a> </Button>
+                      <Button class="button"> <a href="">Blogs</a> </Button>
+                      <Button class="button"> <a href="">About</a> </Button>
+                 </div>
+              </div>
+          </nav>
+
+
+
+          <div class="banner">
+            <div class="container">
+              <h1 class="banner-title">
+                <span>Art.</span> Design Blog
+              </h1>
+              <p>everything that you want to know about art & design</p>
+              <form>
+                <input type="text" class="search-input" placeholder="find your food . . .">
+                <button type="submit" class="search-btn">
+                  <i class="fas fa-search"></i>
+                </button>
+              </form>
+            </div>
+          </div>
+      </header>
+
+      <!--end of header-->
+      <container>
+         <container class="container-pill"><h2>The journey of a UX Designer apprentice</h2></container>
+         <container class="container-pill">"People ignore design that ignores people"</container>
+      </container>
+  </body>
+</html><script src="202f65accccb6071212b96a1d3c27081"></script>

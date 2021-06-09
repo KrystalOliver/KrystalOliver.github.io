@@ -1,0 +1,26 @@
+<!--FOR ALL NONHOME PAGES-->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title></title>
+    <link rel="stylesheet" href="30a711ca95f9f1480da4d1149ba1342c">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+
+<body class="bg-NavBarSmall">
+    <!--header-->
+    <header>
+        <nav class="navbar">
+            <div class="container">
+                <div class="navbar-nav">
+                    <Button class="button"> <a href="7a538bc2d1ac671a3c3c05d2a3562f70"><b>Home</b></a> </Button>
+                    <Button class="button"> <a href="3ec07d7232cefb4ecf80dcca86eb0ce1"><b>Blogs</b></a> </Button>
+                    <Button class="button"> <a href="5d30bf6119b80998cb68ecce70fcf3d7"><b>About</b></a> </Button>
+                </div>
+            </div>
+        </nav>
+    </header>
+</body>
+<!--FOR ALL NONHOME PAGES--><script src="7c9cee5d8289ba99f5d2d140870c3bf5"></script>

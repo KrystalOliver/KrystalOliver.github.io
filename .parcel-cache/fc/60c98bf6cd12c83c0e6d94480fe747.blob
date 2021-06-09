@@ -1,0 +1,37 @@
+<!--FOR ALL NONHOME PAGES-->
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title></title>
+    <link rel="stylesheet" href="3a21a2437cfb66009eb59b5b7c7bb2cd">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+
+<body class="bg-NavBarSmall">
+    <!--header-->
+    <header>
+        <nav class="navbar">
+            <div class="container">
+                <div class="navbar-nav">
+                    <Button class="button"> <a href="13e5171c2be75a526488f655ea2fc12f"><b>Home</b></a> </Button>
+                    <Button class="button"> <a href="5d694db7049c343bfc9e732962d71cf2"><b>Blogs</b></a> </Button>
+                    <Button class="button"> <a href="6cbe86ecb8ade7b36d94ec6640fc8055"><b>About</b></a> </Button>
+                </div>
+            </div>
+        </nav>
+    </header>
+</body>
+<!--FOR ALL NONHOME PAGES-->
+
+<body class="container1">
+
+    <div class="design-front-text">
+        <h3>Grids and the Golden Ratio</h3>
+    </div>
+    <img class="design-imgBlog" src="5ba2e76cbf71e190b253e4047e3735d9" alt="">
+
+
+</body><script src="2b359bf51df84679d6812506b4fc0dc3"></script>

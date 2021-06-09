@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600&display=swap");
+:root {
+  --Playfair: "Playfair Display", serif;
+  --light: #ECECEA ;
+}
+.container h1 {
+  color: blue;
+}
+.container-pill {
+  background-color: var(--light);
+  font-family: var(--Playfair);
+  border: none;
+  color: black;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 25px;
+  display: inline-block;
+  margin: 4px 2px;
+  border-radius: 16px;
+}
+.container-pill h2 {
+  font-size: 40px;
+  margin: 10px 2px;
+}
+.button {
+  background-color: #ddd;
+  border: none;
+  color: black;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  font-family: var(--Playfair);
+  border-radius: 16px;
+}
+.button:hover {
+  background-color: #f1f1f1;
+}
+.bg-NavImg {
+  background-image: url("NavImg.HASH_REF_f8d9b869f3f3f8c9a8629a882f7d0481.jpg");
+  background-position: center;
+  width: 100%;
+  display: block;
+}
+/*# sourceMappingURL=index.HASH_REF_3266f35b225651ee0ffc16ce31d26d56.css.map */

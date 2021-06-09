@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title></title>
+    <link rel="stylesheet" href="816546fc4eb5b8c75beccb21d487cca0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body class="bg-NavImg">
+    <!--header-->
+    <header>
+        <nav class="navbar">
+            <div class="container">
+                <div class="navbar-nav">
+                    <Button class="button"> <a href=""><b>Home</b></a> </Button>
+                    <Button class="button"> <a href=""><b>Links</b></a> </Button>
+                    <Button class="button"> <a href=""><b>About</b></a> </Button>
+                </div>
+            </div>
+        </nav>
+        <div class="banner">
+            <div class="container">
+                <container class="container-pill">
+                    <h2>The journey of a UX Designer apprentice</h2>
+                </container>
+                <br>
+                <container class="container-pill"> "People ignore design that ignores people"</container>
+            </div>
+        </div>
+    </header>
+    <!--end of header-->
+    <div class="container1">
+        <!--First Blog container-->
+        <div class="container2">
+            
+                <img class="design-img" src="8cc604ef37b43e48de9e21b98874d551" alt="">
+            
+            <div class="design-front-text">
+                <h3>Grids and the Golden Ratio</h3>
+                <p>Designing on a grid can bring your design to the next level and using the golden ratio can help make
+                    any design aesthetic</p>
+                <br>
+            </div>
+            <div class="design-small-text">
+                <p>More on Grid and golden ratio design -></p>
+            </div>
+        </div>
+        <!--End-->
+        <!--2-->
+        <div class="container2">
+            
+                <img class="design-img" src="dcc030da2d0de0040397e54904de0041" alt="">
+            
+            <div class="design-front-text">
+                <h3>Form Design</h3>
+                <p>Forms are seen as a boring necessity for people but the thought behind them can be quite interesting and worth a deeper look </p>
+                <br>
+            </div>
+            <div class="design-small-text">
+                <p>More on Form Design-></p>
+            </div>
+        </div>
+        <!--End-->
+        <!--3 Blog container-->
+        <div class="container2">
+           
+                <img class="design-img" src="b75a9d40ce1cda025a2a0c7cc48b2d1a" alt="">
+            
+            <div class="design-front-text">
+                <h3>Accessibility Design</h3>
+                <p>Accessibility is a must for all designers to understand and apply to their work, take a look at my presentation on the subject!</p>
+                <br>
+            </div>
+            <div class="design-small-text">
+                <p>More on Accessibility Design -></p>
+            </div>
+        </div>
+        <!--End-->
+        <!--4 Blog container-->
+        <div class="container2">
+            
+                <img class="design-img" src="438a6ddadfcc93330fed1434d0105038" alt="">
+            
+            <div class="design-front-text">
+                <h3>Ethics in Design</h3>
+                <p>Ethics are important for every designer to think about when they are working, design can always be used in ways other than intended</p>
+                <br>
+            </div>
+            <div class="design-small-text">
+                <p>More on Ethics in Design -></p>
+            </div>
+        </div>
+        <!--End-->
+    </div>
+
+</body>
+
+</html><script src="202f65accccb6071212b96a1d3c27081"></script>

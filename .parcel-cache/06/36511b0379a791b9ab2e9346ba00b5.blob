@@ -1,0 +1,86 @@
+<!--FOR ALL NONHOME PAGES-->
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title></title>
+    <link rel="stylesheet" href="/index.HASH_REF_3266f35b225651ee0ffc16ce31d26d56.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+
+<body class="bg-NavBarSmall">
+    <!--header-->
+    <header>
+        <nav class="navbar">
+            <div class="container">
+                <div class="navbar-nav">
+                    <Button class="button"> <a href="/index.html"><b>Home</b></a> </Button>
+                    <Button class="button"> <a href="/Blogs.html"><b>Blogs</b></a> </Button>
+                    <Button class="button"> <a href="/About.html"><b>About</b></a> </Button>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+</body>
+
+<!--FOR ALL NONHOME PAGES-->
+
+<body style="background-color: #ECECEA;
+">
+    <div class="containerBlogs">
+        <div class="design-blog-text">
+            <h3>Ethics in Design</h3>
+            <h4>Posted on June3, 202</h4>
+        </div>
+        <img class="design-imgBlog" src="/GoldenRatio.HASH_REF_72ed066e87a87260c3bdeb3a8044dc58.jpg" alt="">
+        <div class="design-blog-text">
+            <article>
+                <p class="has-dropcap">There are many different techniques that designers use in order to help their
+                    designs become more interesting and unique. The goal of a good design is to guide the user’s eye
+                    through it in a meaningful way so they can see the most important information without the user even
+                    knowing that anything was happening. A couple of the most impactful tools that will help reach that
+                    goal without too much hassle are grids and the golden ratio.
+                </p>
+                <p>
+                    Grid’s are a basic enough concept but the amount of impact they can make on a design is powerful.
+                    They create a basic structure and framework and they can easily give consistency and interest to any
+                    design without much extra work. Grids are made up of a few important pieces:
+                </p> <br>
+                <p>
+                    <b>1. Unit- </b>the basic building blocks of every grid. Multiple units form the overall grid and
+                    they are
+                    represented with the purple blocks on the image to the left.
+                </p>
+                <p>
+                    <b>2. Gutter- </b>space in between the units that separate them. They are represented by the yellow
+                    in the
+                    image to the left.
+                </p>
+                <div class="row">
+                    <div class="column">
+                        <img class="design-imgBlogContent" src="/Grids1.HASH_REF_2516ad7af0ee191182ffdf8777766037.jpg" alt="">
+                    </div>
+                    <div class="column">
+                        <img class="design-imgBlogContent" src="/GridImg2.HASH_REF_fec187b3bce6e35ff59698d6ae7970f6.jpg" alt="">
+                    </div>
+                </div>
+                <p></p> <p>
+                    <b>3. Column- </b>containers to place content strategically that include multiple units and gutters. They are represented by all the different colors in the image to the right in order to represent the containers and how they can differ in shape and size. 
+                    </p><p>
+                    <b>4. Field- </b>columns of content form fields that are horizontal divisions of pages. In the image to the right the top row with the yellow and red would be one field and the bottom row of green would be a second field. 
+                </p> <br>
+                <p>A twelve unit grid is a good first system for anyone to build layouts because it breaks into 3, 4, and 6 columns easily which means it is flexible and can be molded to be symmetrical or asymmetrical. Splitting the 12 units into 4 columns makes the design simplistic, balanced, and dependable but symmetrical which can be boring and predictable. The 3 column grids are asymmetrical so the designer has to be smarter about finding balance therefore taking more skill in order to make them useful. The 6 column grid provides a lot of flexibility and options to fine tune details, it is the most advanced of the three as it can get messy fast if the designer isn’t careful. Designer’s can also combine the grids within the design which is why a 12 unit grid system is so handy as it can combine the 3, 4, and 6 together with ease.
+                </p><p>
+                    The golden ratio is also an important part of designing although it might be a little more complicated of a concept. The golden ratio is a mathematical ratio based on the relationship between consecutive numbers in the Fibonacci sequence. It can apply to layout, spacing, content, images, and forms inside of design. It was originally popularized in the Renaissance era in order to deliver aesthetically pleasing work including the Mona Lisa. 
+                </p>
+            
+                <img class="design-imgBlogContent" src="/GoldenRatioEq.HASH_REF_01fb4ec93fdc0fd35e380ab302f252d2.jpg" alt="">
+
+            </article>
+        </div>
+    </div>
+    
+</body><script src="/BlogPosts/GridsGoldenRatio.HASH_REF_1a82cbf2e90909aafbf59663185b1931.js"></script>

@@ -1,0 +1,44 @@
+
+<!--FOR ALL NONHOME PAGES-->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title></title>
+    <link rel="stylesheet" href="/index.HASH_REF_3266f35b225651ee0ffc16ce31d26d56.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+
+<body class="bg-NavBarSmall">
+    <!--header-->
+    <header>
+        <nav class="navbar">
+            <div class="container">
+                <div class="navbar-nav">
+                    <Button class="button"> <a href="/index.html"><b>Home</b></a> </Button>
+                    <Button class="button"> <a href="/Blogs.html"><b>Blogs</b></a> </Button>
+                    <Button class="button"> <a href="/About.html"><b>About</b></a> </Button>
+                </div>
+            </div>
+        </nav>
+    </header>
+</body>
+<!--FOR ALL NONHOME PAGES-->
+
+<body style="background-color: #ECECEA;
+">
+    <div class="containerBlogs">
+        <div class="design-blog-text">
+            <h3>Accessibility Design</h3>
+            <h4>Posted on June 6, 202</h4>
+        </div>
+        <img class="design-imgBlog" src="/Ethics.HASH_REF_0dbd17849c43ade80f61ab61586d0edb.jpg" alt="">
+        <div class="design-blog-text">
+            <article>
+               
+            </article>
+        </div>
+    </div>
+    
+</body><script src="/BlogPosts/Accessibility.HASH_REF_2a9fd026f952bec9c93e17eef628b0aa.js"></script>

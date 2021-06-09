@@ -1,0 +1,7 @@
+.container h1 {
+  color: red;
+}
+.container __text {
+  color: blue;
+}
+/*# sourceMappingURL=index.HASH_REF_3266f35b225651ee0ffc16ce31d26d56.css.map */

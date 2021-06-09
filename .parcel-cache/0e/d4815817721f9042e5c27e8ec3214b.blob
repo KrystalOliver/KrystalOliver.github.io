@@ -1,0 +1,6 @@
+.container h1 {
+  color: green;
+}
+.container __text {
+  color: blue;
+}

@@ -1,0 +1,39 @@
+<!--FOR ALL NONHOME PAGES-->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title></title>
+    <link rel="stylesheet" href="/index.HASH_REF_3266f35b225651ee0ffc16ce31d26d56.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+
+<body class="bg-NavBarSmall">
+    <!--header-->
+    <header>
+        <nav class="navbar">
+            <div class="container">
+                <div class="navbar-nav">
+                    <Button class="button"> <a href="/index.html"><b>Home</b></a> </Button>
+                    <Button class="button"> <a href="/Blogs.html"><b>Blogs</b></a> </Button>
+                    <Button class="button"> <a href="/About.html"><b>About</b></a> </Button>
+                </div>
+            </div>
+        </nav>
+    </header>
+</body>
+<!--FOR ALL NONHOME PAGES-->
+
+<body style="background-color: #ECECEA;
+">
+    <div class="center">
+        <div class="design-text-blogsPG">
+            <h1>All Blogs</h1>
+            <a href="/BlogPosts/Ethics.html"><h3>Ethics in Design</h3></a>
+            <p>Ethics are important for every designer to think about when they are working, design can always be used in ways other than intended . . .</p>
+            <small>June 4, 2021</small>
+        </div>
+    </div>
+
+</body><script src="/Blogs.HASH_REF_5cfb45cb93b36cec90814d968e63622c.js"></script>

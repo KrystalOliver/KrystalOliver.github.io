@@ -1,0 +1,79 @@
+<!--FOR ALL NONHOME PAGES-->
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title></title>
+    <link rel="stylesheet" href="75a617540fd6105bf42c1f3ee225c209">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+
+<body class="bg-NavBarSmall">
+    <!--header-->
+    <header>
+        <nav class="navbar">
+            <div class="container">
+                <div class="navbar-nav">
+                    <Button class="button"> <a href="8ca6632cba6e7b5f3da4b005960602de"><b>Home</b></a> </Button>
+                    <Button class="button"> <a href="8ac0929db13b143467904c888f7a658f"><b>Blogs</b></a> </Button>
+                    <Button class="button"> <a href="df2d79ca6a6c4d683fc7e8cf1f49d093"><b>About</b></a> </Button>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+</body>
+
+<!--FOR ALL NONHOME PAGES-->
+
+<body style="ef248f1a3e7b8e19ca45280bd37c174b">
+    <div class="containerBlogs">
+        <div class="design-blog-text">
+            <h3>Ethics in Design</h3>
+            <h4>Posted on June3, 202</h4>
+        </div>
+        <img class="design-imgBlog" src="cb9aea8ea14daef303a418ebb2fec54e" alt="">
+        <div class="design-blog-text">
+            <article>
+                <p class="has-dropcap">There are many different techniques that designers use in order to help their
+                    designs become more interesting and unique. The goal of a good design is to guide the user’s eye
+                    through it in a meaningful way so they can see the most important information without the user even
+                    knowing that anything was happening. A couple of the most impactful tools that will help reach that
+                    goal without too much hassle are grids and the golden ratio.
+                </p>
+                <p>
+                    Grid’s are a basic enough concept but the amount of impact they can make on a design is powerful.
+                    They create a basic structure and framework and they can easily give consistency and interest to any
+                    design without much extra work. Grids are made up of a few important pieces:
+                </p> <br>
+                <p>
+                    <b>1. Unit- </b>the basic building blocks of every grid. Multiple units form the overall grid and
+                    they are
+                    represented with the purple blocks on the image to the left.
+                </p>
+                <p>
+                    <b>2. Gutter- </b>space in between the units that separate them. They are represented by the yellow
+                    in the
+                    image to the left.
+                </p>
+                <div class="row">
+                    <div class="column">
+                        <img class="design-imgBlogContent" src="00777e1b7131472344dfc9de9a1008da" alt="">
+                    </div>
+                    <div class="column">
+                        <img class="design-imgBlogContent" src="dab8cd7cfe7c1a9b14b52c7c1326924b" alt="">
+                    </div>
+                </div>
+                <p></p> <p>
+                    <b>3. Column- </b>containers to place content strategically that include multiple units and gutters. They are represented by all the different colors in the image to the right in order to represent the containers and how they can differ in shape and size. 
+                    </p><p>
+                    <b>4. Field- </b>columns of content form fields that are horizontal divisions of pages. In the image to the right the top row with the yellow and red would be one field and the bottom row of green would be a second field. 
+                </p>
+
+            </article>
+        </div>
+    </div>
+    
+</body><script src="ed21f8228c4b71200cd4d339caa2ef13"></script>

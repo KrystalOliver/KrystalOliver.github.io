@@ -1,0 +1,97 @@
+<!--FOR ALL NONHOME PAGES-->
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title></title>
+    <link rel="stylesheet" href="75a617540fd6105bf42c1f3ee225c209">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+
+<body class="bg-NavBarSmall">
+    <!--header-->
+    <header>
+        <nav class="navbar">
+            <div class="container">
+                <div class="navbar-nav">
+                    <Button class="button"> <a href="8ca6632cba6e7b5f3da4b005960602de"><b>Home</b></a> </Button>
+                    <Button class="button"> <a href="8ac0929db13b143467904c888f7a658f"><b>Blogs</b></a> </Button>
+                    <Button class="button"> <a href="df2d79ca6a6c4d683fc7e8cf1f49d093"><b>About</b></a> </Button>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+</body>
+
+<!--FOR ALL NONHOME PAGES-->
+
+<body style="ef248f1a3e7b8e19ca45280bd37c174b">
+    <div class="containerBlogs">
+        <div class="design-blog-text">
+            <h3>Ethics in Design</h3>
+            <h4>Posted on June3, 202</h4>
+        </div>
+        <img class="design-imgBlog" src="cb9aea8ea14daef303a418ebb2fec54e" alt="">
+        <div class="design-blog-text">
+            <article>
+                <p class="has-dropcap">There are many different techniques that designers use in order to help their
+                    designs become more interesting and unique. The goal of a good design is to guide the user’s eye
+                    through it in a meaningful way so they can see the most important information without the user even
+                    knowing that anything was happening. A couple of the most impactful tools that will help reach that
+                    goal without too much hassle are grids and the golden ratio.
+                </p>
+                <p>
+                    Grid’s are a basic enough concept but the amount of impact they can make on a design is powerful.
+                    They create a basic structure and framework and they can easily give consistency and interest to any
+                    design without much extra work. Grids are made up of a few important pieces:
+                </p> <br>
+                <p>
+                    <b>1. Unit- </b>the basic building blocks of every grid. Multiple units form the overall grid and
+                    they are
+                    represented with the purple blocks on the image to the left.
+                </p>
+                <p>
+                    <b>2. Gutter- </b>space in between the units that separate them. They are represented by the yellow
+                    in the
+                    image to the left.
+                </p>
+                <div class="row">
+                    <div class="column">
+                        <img class="design-imgBlogContent" src="00777e1b7131472344dfc9de9a1008da" alt="">
+                    </div>
+                    <div class="column">
+                        <img class="design-imgBlogContent" src="dab8cd7cfe7c1a9b14b52c7c1326924b" alt="">
+                    </div>
+                </div>
+                <p></p> <p>
+                    <b>3. Column- </b>containers to place content strategically that include multiple units and gutters. They are represented by all the different colors in the image to the right in order to represent the containers and how they can differ in shape and size. 
+                    </p><p>
+                    <b>4. Field- </b>columns of content form fields that are horizontal divisions of pages. In the image to the right the top row with the yellow and red would be one field and the bottom row of green would be a second field. 
+                </p> <br>
+                <p>A twelve unit grid is a good first system for anyone to build layouts because it breaks into 3, 4, and 6 columns easily which means it is flexible and can be molded to be symmetrical or asymmetrical. Splitting the 12 units into 4 columns makes the design simplistic, balanced, and dependable but symmetrical which can be boring and predictable. The 3 column grids are asymmetrical so the designer has to be smarter about finding balance therefore taking more skill in order to make them useful. The 6 column grid provides a lot of flexibility and options to fine tune details, it is the most advanced of the three as it can get messy fast if the designer isn’t careful. Designer’s can also combine the grids within the design which is why a 12 unit grid system is so handy as it can combine the 3, 4, and 6 together with ease.
+                </p><p>
+                    The golden ratio is also an important part of designing although it might be a little more complicated of a concept. The golden ratio is a mathematical ratio based on the relationship between consecutive numbers in the Fibonacci sequence. It can apply to layout, spacing, content, images, and forms inside of design. It was originally popularized in the Renaissance era in order to deliver aesthetically pleasing work including the Mona Lisa. 
+                </p>
+<p style="2f0ff93762b92c757d83b37591960384"> 
+                <img class="design-imgBlogContent" src="a63a3a692ed0dc068df48980940e9bcf" alt="">
+</p>
+           <p>The fibonacci sequence states that each number in the sequence is the sum of the two values that came before it: 1, 1, 2, 3, 5, 8, 13, 21, 34, etc. It is what creates the golden spiral which is a logarithmic spiral that grows by a factor of the golden ratio. It appears often in nature and can be seen in plants such as the shell of nautilus, and the cloud formations in a hurricane. 
+           </p><p style="fa8401211ffb6f111cb7e7da0f613a4a">
+           <img class="design-imgBlogContent" src="e50ebfff0d4471ca6838d36cf5d343d5" alt="">
+           </p>
+           <p>Now that these tools have been explained a little bit the question that arises is how will they actually apply to design in order to make it more functional. It seems as if it is all just a little too complicated to be useful and worth the hassle. However the benefits of these tools far outweigh any effort it requires of the designer, especially when applying the design to a graph. 
+           </p><p>
+            Using a graph to base designs off of makes it so much easier to keep things balanced and consistent if the designer has to have multiple designs or pages that need to look like they belong together. This in turn makes it faster to design something new for the project or to even have another designer jump in and be able to start working without a lot of unnecessary and time consuming talking back and forth. It’s like a blueprint for any design and it is even good for single pieces if the designer wants to make sure that their work is balanced, and graphing can help them design in the diagonal. When designing on a grid the designer has the ability to break out of the system for something that they want the user to see right away. When everything is on a grid and something pops out it will stand out to the user as well and they will naturally follow that piece, and it will help direct their eyes across the page without them noticing.
+           </p><p>
+            Using the golden ratio is so flexible with how it can be used that it is easy enough to find a way that it can be applied to any design. Looking around there are many different examples of ways that the ratio is used inside of popular brands such as Pepsi and Twitter’s icons and branding. The two designs are both popular and easily stand out from a crowd of icons but they look nothing alike, showing the diversity of uses with the tool. 
+           </p><p>
+            Using the golden ratio is so flexible with how it can be used that it is easy enough to find a way that it can be applied to any design. Looking around there are many different examples of ways that the ratio is used inside of popular brands such as Pepsi and Twitter’s icons and branding. The two designs are both popular and easily stand out from a crowd of icons but they look nothing alike, showing the diversity of uses with the tool. 
+           </p>
+        </article>
+        </div>
+    </div>
+    
+</body><script src="ed21f8228c4b71200cd4d339caa2ef13"></script>

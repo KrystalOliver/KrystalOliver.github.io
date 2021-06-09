@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title></title>
+    <link rel="stylesheet" href="/index.HASH_REF_3266f35b225651ee0ffc16ce31d26d56.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body class="bg-NavImg">
+    <!--header-->
+    <header>
+        <nav class="navbar">
+            <div class="container">
+                <div class="navbar-nav">
+                    <Button class="button"> <a href=""><b>Home</b></a> </Button>
+                    <Button class="button"> <a href=""><b>Blog</b></a> </Button>
+                    <Button class="button"> <a href=""><b>About</b></a> </Button>
+                </div>
+            </div>
+        </nav>
+        <div class="banner">
+            <div class="container">
+                <container class="container-pill">
+                    <h2>The journey of a UX Designer apprentice</h2>
+                </container>
+                <br>
+                <container class="container-pill"> "People ignore design that ignores people"</container>
+            </div>
+        </div>
+    </header>
+    <!--end of header-->
+    <div class="container1">
+        <!--First Blog container-->
+        <div class="container2">
+            <a href="BlogPossts/GridsGoldenRatio"><img class="design-img" src="/GoldenRatio.HASH_REF_02255eb580e95ef795138cdb4d6fac22.jpg" alt=""></a>
+            <div class="design-front-text">
+                <h3>Grids and the Golden Ratio</h3>
+                <p>Designing on a grid can bring your design to the next level and using the golden ratio can help make
+                    any design aesthetic</p>
+                <br>
+            </div>
+            <div class="design-small-text">
+                <p>More on Grid and golden ratio design -></p>
+            </div>
+        </div>
+        <!--End-->
+        <!--2-->
+        <div class="container2">
+            <a href="BlogPossts/FormDesign"><img class="design-img" src="/FormDesign.HASH_REF_ddfb8497c6770ef83082cb9790a3bdce.jpg" alt=""></a>
+            <div class="design-front-text">
+                <h3>Form Design</h3>
+                <p>Forms are seen as a boring necessity for people but the thought behind them can be quite interesting
+                    and worth a deeper look </p>
+                <br>
+            </div>
+            <div class="design-small-text">
+                <p>More on Form Design-></p>
+            </div>
+        </div>
+        <!--End-->
+        <!--3 Blog container-->
+        <div class="container2">
+            <a href="/BlogPosts/Accessibility.html"><img class="design-img" src="/Accessibility.HASH_REF_37d2072853addb382af6b204f14fc132.jpg" alt=""></a>
+            <div class="design-front-text">
+                <h3>Accessibility Design</h3>
+                <p>Accessibility is a must for all designers to understand and apply to their work, take a look at my
+                    presentation on the subject!</p>
+                <br>
+            </div>
+            <div class="design-small-text">
+                <p>More on Accessibility Design -></p>
+            </div>
+        </div>
+        <!--End-->
+        <!--4 Blog container-->
+        <div class="container2">
+            <a href="BlogPossts/Ethics"> <img class="design-img" src="/Ethics.HASH_REF_73dff8e56493f51beea80799c399aeb6.jpg" alt=""></a>
+            <div class="design-front-text">
+                <h3>Ethics in Design</h3>
+                <p>Ethics are important for every designer to think about when they are working, design can always be
+                    used in ways other than intended</p>
+                <br>
+            </div>
+            <div class="design-small-text">
+                <p>More on Ethics in Design -></p>
+            </div>
+        </div>
+        <!--End-->
+    </div>
+
+</body>
+
+</html><script src="/index.HASH_REF_1cf92b8ac789bf0c8bd4b6d53ebff041.js"></script>

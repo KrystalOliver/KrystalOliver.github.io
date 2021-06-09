@@ -1,0 +1,134 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600&display=swap");
+:root {
+  --Playfair: "Playfair Display", serif;
+  --light: #ECECEA ;
+}
+.container-pill {
+  background-color: white;
+  font-family: var(--Playfair);
+  border: none;
+  color: black;
+  padding: 8px 30px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 25px;
+  display: inline-block;
+  margin: 10px 20px;
+  border-radius: 50px;
+}
+.container-pill h2 {
+  font-size: 35px;
+  margin: 10px 20px;
+}
+.button {
+  background-color: white;
+  border: none;
+  color: black;
+  padding: 10px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 10px 5px;
+  font-family: var(--Playfair);
+  font-size: 20px;
+  border-radius: 50px;
+}
+.button:hover {
+  background-color: var(--light);
+}
+.bg-NavImg {
+  background-image: url("d8dbd4f4efd90ca5b1377f5b73aadae7");
+  background-repeat: no-repeat;
+  display: fixed;
+}
+.navbar {
+  padding-top: 2.5rem;
+  padding-right: 2.5rem;
+  text-align: right;
+}
+.navbar-nav a {
+  color: black;
+  text-decoration: none;
+  display: inline-block;
+  padding: 0.4rem 0.1rem;
+  letter-spacing: 3px;
+}
+.banner {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding-top: 6rem;
+}
+.design {
+  padding: 4.5rem 0;
+}
+.title {
+  text-align: center;
+  padding: 1rem 0;
+}
+.title h2 {
+  font-family: var(--Playfair);
+  font-size: 2.4rem;
+}
+.title p {
+  text-transform: uppercase;
+  padding: 0.6rem 0;
+}
+.design-content {
+  margin: 2rem 0;
+}
+.design-item {
+  size: 100rem;
+  margin: 1.5rem 0;
+}
+.design-img {
+  position: relative;
+  overflow: hidden;
+  size: 25%;
+}
+.design-img::after {
+  position: absolute;
+  content: "";
+  top: 0;
+  left: 0;
+  width: 10rem;
+}
+.design-img img {
+  transition: all 0.5s ease;
+}
+.design-item:hover img {
+  transform: scale(1.2);
+}
+.design-img span:first-of-type {
+  position: absolute;
+  z-index: 1;
+  top: 10px;
+  left: 10px;
+  background: var(--exDark);
+  color: #fff;
+  padding: 0.25rem 1rem;
+}
+.design-img span:last-of-type {
+  position: absolute;
+  z-index: 1;
+  bottom: 10px;
+  right: 10px;
+  color: #fff;
+  font-weight: 700;
+  font-size: 1.1rem;
+}
+.design-title {
+  padding: 1rem;
+  font-size: 1.2rem;
+  text-align: center;
+  width: 70%;
+  margin: 0 auto;
+}
+.design-title a {
+  color: var(--dark);
+  text-decoration: none;
+  text-transform: capitalize;
+  font-family: var(--Playfair);
+}
