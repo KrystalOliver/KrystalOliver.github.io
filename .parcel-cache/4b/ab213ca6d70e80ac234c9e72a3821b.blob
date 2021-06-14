@@ -1,0 +1,42 @@
+<!--FOR ALL NONHOME PAGES-->
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title></title>
+    <link rel="stylesheet" href="0f2c432f2f2ec49526b0081bf0ac83a7">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+
+<body class="bg-NavBarSmall">
+    <!--header-->
+    <header>
+        <nav class="navbar">
+            <div class="container">
+                <div class="navbar-nav">
+                    <Button class="button"> <a href="0de1310ee07d66202a681d5aebfb436a"><b>Home</b></a> </Button>
+                    <Button class="button"> <a href="24b91a2a489248b1200ed83f1b3edf8b"><b>Blogs</b></a> </Button>
+                    <Button class="button"> <a href="e95dbd68edd3cff0385a1b611ff98305"><b>About</b></a> </Button>
+                </div>
+            </div>
+        </nav>
+    </header>
+</body>
+<!--FOR ALL NONHOME PAGES-->
+
+<body style="9afe0cd198848f1da8c844a7a15dbb18">
+    <div class="containerBlogs">
+        <section class="design-blog-text">
+            <h3>Accessibility Design</h3>
+            <h4>Posted on June 6, 2021</h4>
+        </section>
+        <img class="design-imgBlog" src="2a196cc290b8d3fdc7c2f06ea2e68770" alt="For Decoration, sign showing different kinds of people including a disabled person">
+
+        <article class="design-blog-text">
+
+        </article>
+    </div>
+
+</body>
