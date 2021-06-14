@@ -1,0 +1,54 @@
+<!--FOR ALL NONHOME PAGES-->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title></title>
+    <link rel="stylesheet" href="c9993429d6faaa103a0d220b19d68e9d">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+
+<body class="bg-NavBarSmall">
+    <!--header-->
+    <header>
+        <nav class="navbar">
+            <div class="container">
+                <div class="navbar-nav">
+                    <Button class="button"> <a href="4fe9aa48628d49bc13ae94af24645748"><b>Home</b></a> </Button>
+                    <Button class="button"> <a href="be0297abd7a341bcb0163eb54974fe21"><b>Blogs</b></a> </Button>
+                    <Button class="button"> <a href="d1fb4bb48e10124b5986b744a41880c6"><b>About</b></a> </Button>
+                </div>
+            </div>
+        </nav>
+    </header>
+</body>
+<!--FOR ALL NONHOME PAGES-->
+
+<body style="d0aa63875449d3a06066d180587f4e0d">
+    <div class="center">
+        <div class="design-text-blogsPG">
+            <h1>All Blog Posts</h1>
+            <p><a href="74c942139bafa888823f7bab54357391" class="design-front-textName">Ethics in Design</a></p>
+            <p>Ethics are important for every designer to think about when they are working, design can always be used in ways other than intended . . .</p>
+            <small>June 4, 2021</small>
+
+            <p><a href="f494baca90f507361990e368313f77fc" class="design-front-textName">Accessibility Design</a></p>
+            <p>Accessibility is a must for all designers to understand and apply to their work, take a look at my presentation on the subject . . .</p>
+            <small>June 6, 2021</small>
+
+            <p><a href="5d1e3ec979629f6990772f8365a0ae84" class="design-front-textName">Form Design</a></p>
+            <p>Forms are seen as a boring necessity for people but the thought behind them can be quite interesting and worth a deeper look . . .</p>
+            <small>June 5, 2021</small>
+
+            <p><a href="1e3f94174b6356a43715e64629075af4" class="design-front-textName">Grids and the Golden Ratio</a></p>
+            <p>Designing on a grid can bring your design to the next level and using the golden ratio can help make any design aesthetic . . .</p>
+            <small>June 9, 2021</small>
+
+            <p><a href="cdd8bacaa12041f94ff4628979faeff0" class="design-front-textName">HTML elements and Semantic HTML</a></p>
+            <p>Coding your own designs can be intimidating but it is no longer impossible! Take a look at the different elements and tags that are a part of HTML coding . . .</p>
+            <small>June 7, 2021</small>
+        </div>
+    </div>
+
+</body>
