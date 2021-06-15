@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title></title>
+    <link rel="stylesheet" href="/index.HASH_REF_3266f35b225651ee0ffc16ce31d26d56.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+    <!--header-->
+    <header class="nav__img">
+        <nav class="navbar">
+            <div class="nav__navbar">
+                <Button class="nav__button"> <a href="/index.html"><b>Home</b></a> </Button>
+                <Button class="nav__button"> <a href="/Blogs.html"><b>Blogs</b></a> </Button>
+                <Button class="nav__button"> <a href="/About.html"><b>About</b></a> </Button>
+            </div>
+
+        </nav>
+        <div class="header-banner__quotes">
+            <div class="container">
+                <container class="header__quotes-pill">
+                    <h2>The journey of a UX Designer apprentice</h2>
+                </container>
+                <br>
+                <container class="header__quotes-pill"> "People ignore design that ignores people"</container>
+            </div>
+        </div>
+    </header>
+    <!--end of header-->
+    <div class="content-front__wrapper">
+        <!--First Blog container-->
+        <div class="content-front__bg-color">
+            <a href="/BlogPosts/GridsGoldenRatio.html"><img class="image-front" src="/GoldenRatio.HASH_REF_72ed066e87a87260c3bdeb3a8044dc58.jpg" alt="For decoration, stairs in a position showing the golden swirl ratio"></a>
+            <section class="content__text-regular">
+                <p class="content__text-medium">Grids and the Golden Ratio
+                </p><p>Designing on a grid can bring your design to the next level and using the golden ratio can help make
+                    any design aesthetic</p>
+                <a href="/BlogPosts/GridsGoldenRatio.html">
+                    <p class="content-front__text-small">More on Grid and golden ratio design . . .</p>
+                </a>
+            </section>
+        </div>
+        <!--End-->
+        <!--2-->
+        <div class="content-front__bg-color">
+            <a href="/BlogPosts/FormDesign.html"><img class="image-front" src="/FormDesign.HASH_REF_110e7eed6a323da314bde755d670496c.jpg" alt="For decoration, a hand filling out a form"></a>
+            <section class="content__text-regular">
+                <h3>Form Design</h3>
+                <p>Forms are seen as a boring necessity for people but the thought behind them can be quite interesting
+                    and worth a deeper look </p>
+                <a href="/BlogPosts/FormDesign.html">
+                    <p class="content-front__text-small">More on Form Design . . .</p>
+                </a>
+            </section>
+
+        </div>
+        <!--End-->
+        <!--3 Blog container-->
+        <div class="content-front__bg-color">
+            <a href="/BlogPosts/Accessibility.html"><img class="image-front" src="/Accessibility.HASH_REF_69b528f66307850a815b26cecae0533d.jpg" alt="For Decoration, sign showing different kinds of people including a disabled person"></a>
+            <section class="content__text-regular">
+                <h3>Accessibility Design</h3>
+                <p>Accessibility is a must for all designers to understand and apply to their work, take a look at my
+                    presentation on the subject!</p>
+                <a href="content__text-regular">
+                    <p class="content-front__text-small">More on Accessibility Design . . .</p>
+                </a>
+            </section>
+        </div>
+        <!--End-->
+        <!--4 Blog container-->
+        <div class="content-front__bg-color">
+            <a href="/BlogPosts/Ethics.html"> <img class="image-front" src="/Ethics.HASH_REF_0dbd17849c43ade80f61ab61586d0edb.jpg" alt="For decoration, glasses in front of code"></a>
+            <section class="content__text-regular">
+                <h3>Ethics in Design</h3>
+                <p>Ethics are important for every designer to think about when they are working, design can always be
+                    used in ways other than intended</p>
+                <a href="/BlogPosts/Ethics.html">
+                    <p class="content-front__text-small">More on Ethics in Design . . .</p>
+                </a>
+            </section>
+        </div>
+        <!--End-->
+        <!--4 Blog container-->
+        <div class="content-front__bg-color">
+            <a href="/BlogPosts/Ethics.html"> <img class="image-front" src="/Ethics.HASH_REF_0dbd17849c43ade80f61ab61586d0edb.jpg" alt="For decoration, glasses in front of code"></a>
+            <section class="content-front__text">
+                <h3>Ethics in Design</h3>
+                <p>Ethics are important for every designer to think about when they are working, design can always be
+                    used in ways other than intended</p>
+                <a href="/BlogPosts/Ethics.html">
+                    <p class="content-front__text-small">More on Ethics in Design . . .</p>
+                </a>
+            </section>
+        </div>
+        <!--End-->
+
+    </div>
+
+</body>
+
+</html><script src="/index.HASH_REF_1cf92b8ac789bf0c8bd4b6d53ebff041.js"></script>

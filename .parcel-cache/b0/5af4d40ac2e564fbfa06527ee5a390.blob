@@ -1,0 +1,181 @@
+<!--FOR ALL NONHOME PAGES-->
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title></title>
+  <link rel="stylesheet" href="/index.HASH_REF_3266f35b225651ee0ffc16ce31d26d56.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+
+<body class="nav__img-small">
+  <!--header-->
+  <header>
+    <nav class="navbar">
+      <div class="container">
+        <div class="nav__navbar">
+          <Button class="nav__button"> 
+            <a href="/index.html">
+              <b>Home</b>
+            </a> 
+          </Button>
+          <Button class="nav__button"> <a href="/Blogs.html"><b>Blogs</b></a> </Button>
+          <Button class="nav__button"> <a href="/About.html"><b>About</b></a> </Button>
+        </div>
+      </div>
+    </nav>
+  </header>
+</body>
+<!--FOR ALL NONHOME PAGES-->
+
+
+<body style="background-color: #ECECEA;
+">
+  <div class="content-blogs__layout">
+    <p class="content__text-big text__left">Form Design</p>
+    <p class="content__text-small">Posted on June 5, 2021</p>
+    <img class="image-blog" src="/FormDesign.HASH_REF_110e7eed6a323da314bde755d670496c.jpg" alt="For decoration, a hand filling out a form">
+
+    <article class="content__text-regular">
+      <p class="has-dropcap">Forms are used so often that you would be hard pressed to find anyone who hasn’t
+        at least filled out one in their lifetime. They take many shapes and sizes, from job and apartment
+        applications where it is basic information easily filled out to study and review forms where there
+        might be more comment sections. Most people want to fill out the form as fast as they can and forget
+        about it, not thinking about the process or time someone took creating the form. That’s how it
+        should be, if the form is designed well then it should be thoughtless for the user to navigate
+        through. Forms tend to be bland and dry by nature but there are some important key elements that
+        make up a well designed form that need some thought.
+      </p>
+      <p>
+        Why bother designing a good form? It’s already a dry subject and people don’t stay on the form long
+        enough for them to really appreciate the effort a designer puts into it. Spending time to create a
+        well designed form is going to be better in the long run for everyone because designers will have
+        more people filling them out and the users will have the best experience. A form can be designed to
+        make the user slow down and think about what is being told to them or it can have them quickly
+        finish with the least amount of struggle simply by the placement of the labels. A good design can
+        make all the difference in the user experience.
+        Part of creating a well designed form is having it be user-friendly and making sure the user has a
+        good experience while filling out the form. A user-friendly form is easy to understand, and complete
+        so it should have things that make the form easier for the user to get the most from the experience.
+        The user should be able to scan through the form and understand what they need to do by using the
+        placement of labels.
+      </p>
+      <p>
+        The top aligned labels are the quickest way for a user to scan through a form if there is nothing
+        important that is needed of them, this is best for forms that require only basic stuff like job or
+        apartment applications because there is no new information needed for them, they always require
+        background info and there is rarely anything different from form to form so it can be completed
+        quickly. The right aligned labels are a little slower to complete than the top aligned but it is
+        still pretty quick and it requires less vertical space. That means that it is good for forms where
+        there is going to be a lot of vertical space needed because of the amount of input boxes or
+        information required. A form shouldn’t seem too long or complex or it might overwhelm the user and
+        make it harder to complete so if there is going to be a long form it should be broken into sections
+        and make the most of the vertical space. The last label alignment, left-aligned, is the slowest of
+        the three kinds and it is good for forms where the designer needs long labels or where they need the
+        user to slow down and actually read what the form is saying. It is a way to force the user to slow
+        down.
+      </p>
+      <p>
+        User’s also should type as little as possible in order to keep the form as easy to complete as
+        possible so as they are filling out addresses there should be an autofill option. Some forms also
+        know the location of the user so they can figure out what would be closest to them or give them
+        different options for their location. Another good thing to do to maximize user-friendly design is
+        to have formatting already in place for some things such as formatting a mask for how phone numbers
+        will be put into the form. Masks format text automatically while the field is being filled out, so
+        it will be able to notice errors easily. ( )___-____
+      </p>
+      <p>
+        Good design also requires accessibility, as not everyone uses the internet in the same way and many
+        people require different tools in order to fill out a form or easily understand a website or design.
+        Accessibility is designing for users that aren’t the “average” and then trying to make things easier
+        for them to fill out the form. Many people just see accessibility as for the extreme cases and
+        therefore quite rare but that isn’t quite the case. The elderly are a large group of technology
+        users and they usually have visual and auditory challenges and quite frequently struggle with the
+        new modern kinds of designs. Accessible design should be created so the most common user can have an
+        easy time navigating it out but it needs to also take into consideration the users that have
+        specific needs or concerns.
+      </p>
+      <p>
+        There are many different kinds of tools that help with accessibility. For people with motor control
+        functions keyboard shortcuts are vital in order to navigate the design, for visually impared users
+        they need to have large and easy to read fonts or the ability to have the form screen read, for
+        people with focus problems they need limited clutter on a page, and for people who can have
+        epileptic attacks they need to be careful of animations or videos. Accessibility is becoming
+        something that is expected from all designs and from that need there are many more tools being
+        created all the time, such as Accessibe, an accessibility tool used in order to scan a website and
+        see if it is accessible to multiple kinds of users. It simultaneously is able to allow users to
+        adjust the appearance and behavior of a site as well as utilizing AI to optimize a website for
+        screen readers, keyboard navigation, and other accessible tools. There are many different needs of
+        users, and it can be a little overwhelming to think about all the different needs of them but these
+        things could mean the difference between someone being able to fill out a form, navigating a site or
+        not.
+      </p>
+      <p>
+        There are many different elements to a form, all of which can be used for different purposes and are
+        a necessary part of the structure of a well good design;
+      </p>
+      <p><b class="content__text-medium">1. Text input - </b>Text input is for user input that is short, just one line
+        of input, such as a
+        name,
+        phone number, or email. This is probably the most common element of a form.
+      </p>
+      <p>
+        <b class="content__text-medium">2. Text area - </b>Text area is another text input field from the user but this
+        one is a
+        multi-line input
+        where the user can press enter. This is good for when the designer doesn't necessarily know the
+        length of the input, such as comments, and gives the user more flexibility.
+      </p>
+      <p>
+        <b class="content__text-medium">3. Password Input - </b>Password input is a text input that is hidden from view,
+        it is used for
+        things that
+        are private so no one can read over the user’s shoulder and see something that could be harmful to
+        them. This is usually used for things such as Social security numbers and passwords. There should be
+        a choice to unhide the input, in case the user needs to see what they wrote to check its
+        correctness.
+      </p>
+      <p>
+        <b class="content__text-medium">4. Radio select - </b>A radio is the circle equivalent to a checkbox except that
+        with a radio it
+        can only
+        be used once for a list of options, like multiple choice questions. This is for when there will be
+        multiple options and a radio will choose only one of them.
+      </p>
+      <p>
+        <b class="content__text-medium">5. Checkbox - </b>A checkbox is essentially a true false statement in a user
+        input form. There
+        will be
+        options that have a checkbox next to them and if they are true, then the user marks them, otherwise
+        they are left blank. There can be multiple checkboxes marked at once. This can be used for when
+        multiple options can be used at once, such as marking hobbies or favorite tv shows from a list.
+      </p>
+      <p>
+        <b class="content__text-medium">6. Dropdown - </b>A dropdown menu is when there is a button that the user clicks
+        on in order to
+        drop down a
+        list of items to see, the user can then choose one value from that list. It can be used to organize
+        lists, options, or pages in a website.
+      </p>
+      <p>
+        <b class="content__text-medium">7. File input - </b>File input is essentially a button that allows the user to
+        go into their
+        computer’s
+        files and choose something to upload to the form. This can be used to upload an image or a pdf such
+        as a resume for a job application.
+      </p>
+      <p>
+        <b class="content__text-medium">8. Submit Button - </b>All of these elements would go to waste without the
+        submit button, it is
+        how all of
+        the information entered is communicated with the designer. It is used on the bottom of all types of
+        forms, such as applications or survey’s, and is usually in the shape of a large button.
+
+      </p>
+    </article>
+
+  </div>
+
+</body><script src="/BlogPosts/FormDesign.HASH_REF_fb2860af44e330785bfcf027c8963a00.js"></script>

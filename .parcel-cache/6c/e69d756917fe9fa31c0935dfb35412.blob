@@ -1,0 +1,201 @@
+<!--FOR ALL NONHOME PAGES-->
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title></title>
+  <link rel="stylesheet" href="/index.HASH_REF_3266f35b225651ee0ffc16ce31d26d56.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body class="nav__img-small">
+  <header>
+    <nav class="navbar">
+      <div class="container">
+        <div class="nav__navbar">
+          <Button class="nav__button">
+            <a href="/index.html">
+              <b>Home</b>
+            </a>
+          </Button>
+          <Button class="nav__button">
+            <a href="/Blogs.html">
+              <b>Blogs</b>
+            </a>
+          </Button>
+          <Button class="nav__button">
+            <a href="/About.html">
+              <b>About</b>
+            </a>
+          </Button>
+        </div>
+      </div>
+    </nav>
+  </header>
+</body>
+<!--FOR ALL NONHOME PAGES-->
+
+<body style="background-color: #ECECEA;
+">
+  <div class="content-blogs__layout">
+
+    <p class="content__text-big text__left">Ethics in Design</p>
+    <p class="content__text-small">Posted on June 3, 2021</p>
+    <img class="image-blog" src="/Ethics.HASH_REF_0dbd17849c43ade80f61ab61586d0edb.jpg" alt="For decoration, glasses in front of code">
+    <article class="content__text-regular">
+
+      <p class="has-dropcap">Along with the rapid growth of technology came a whole new perspective of how
+        society can function.
+        Technology has solved many issues in the world and in turn created opportunities that were
+        previously
+        impossible.
+      </p>
+      <p>
+        But when something grows too fast it often becomes unstable, which is the case with
+        many things related to technology. No app, website, or device was fully capable of handling the
+        magnitude of what could happen if they suddenly had a huge influx of users. The thought of how
+        people
+        could use technology in ways other than originally intended wasn’t one that most designers thought
+        too
+        far into at the beginning.
+      </p>
+      <p>
+        For example facebook has about 2.80 billion monthly active users and they
+        were able to keep that number so high by making sure that their app was as interesting and addictive
+        as
+        possible regardless of the consequences. Facebook will spread fake news and damaging information
+        like
+        wildfire if it means that they will get more user interaction and people will spend more time on
+        their
+        app. They will have notifications popping up on people’s personal devices in order to keep users
+        thinking about them all day and they will have shoddy privacy policies because they are more focused
+        on
+        making money then on actually protecting their users and creating a helpful environment. Now that
+        they
+        are on such a large scale any decision impacts a large number of users as even one percent of
+        Facebook’s
+        user base is still 28 million people so they have huge influence in modern society in a way they
+        never
+        could have imagined.
+      </p>
+      <p>
+        Designers are taught to create with empathy, being able to put themselves inside of their user’s
+        perspective and trying to find all of the different ways their product will be used, valued, and
+        abused.
+        Over the years this has been sort of left behind and rushed for the sake of exponential growth,
+        because
+        of this a lot of problems have surfaced. Nightmare scenarios are bound to happen when a designer’s
+        creation has so many users, things that were unthinkable before are now suddenly able to become
+        fully
+        wielded and used against others.
+      </p>
+      <p>That is the case of smart technology such as Wi-Fi, doors,
+        speakers,
+        thermostats, lights, and cameras which were all created for ease of use, for people who are going to
+        be
+        gone a lot or going on vacation and want to make sure their house is taken care of and safe. But all
+        of
+        these items are used in an increasing number of domestic violence cases as a way for the abuser to
+        control the environment of their target. Smart technology is essentially erasing the distance
+        between
+        abusers and their victims, allowing for new kinds of torment and tracking at any time. Before smart
+        technology this couldn’t have been possible because the abuser had to have some sort of access to
+        their
+        target for abuse to occur, whether that be emotional or physical.
+      </p>
+      <p> Domestic violence is all about control and smart technology gives a new layer of it, along with a
+        sort
+        of anonymity for the abuser. With the ability to have all smart technology installed inside of a
+        home,
+        abuse can easily happen if only one part of a couple has all of the passwords and access to the apps
+        to
+        turn everything on.
+      </p>
+      <p>Through an easy to use app someone can turn on a stereo at full volume, turn the
+        thermostat up to 100 degrees, lock all the doors, access all cameras inside and outside the house,
+        etc
+        which creates a feeling of helplessness in the target and a sense of complete control in the abuser
+        both
+        of which they crave. Having cameras inside and outside of the house is also a way for the target to
+        be
+        monitored at all times and so the abuser can get real time visuals of their target reacting to the
+        chaos
+        caused. Many cameras are so small they can be almost indistinguishable and oftentimes victims can
+        feel
+        as if they are going crazy and they don’t know enough about the technology to understand exactly
+        what is
+        going on or how to fix it. Their only option becomes unplugging everything and dealing with the
+        consequences such as their abuser becoming angry and furthering their isolation and lack of control.
+      </p>
+      <p>Along with the smart home technology there is another way that abuser’s keep control over the
+        target’s
+        that they live with or even those they have very little contact with such as ex’s or people they
+        stalk
+        and that is through apps that can be installed onto the victim’s phone. These apps can do multiple
+        things such as tracking, monitoring texts, calls, emails, view photo’s and video’s stored on the
+        phone,
+        intercept calls and even record what the target is saying or seeing when not on a call through the
+        phone’s microphone and camera.
+      </p>
+      <p>Many victims don’t even know that they are being tracked until they
+        see
+        their tormentor suddenly showing up everywhere they go, or when the abuser shows up with
+        confidential
+        photos to use as blackmail taken from the target’s own personal phone. The apps aren’t especially
+        difficult to install, either, so there doesn’t have to be a skilled hacker putting it on the phone,
+        the
+        only thing that the tormentor needs is easily accessible consumer spyware and an opportunity to
+        install
+        it on their target’s device where it will be in stealth mode and undetectable by most individuals.
+        In
+        fact most spyware apps are developed and advertised as being invisible to targets and act in an
+        indetectable manner as they can be installed to look like another type of app or file such as a
+        digital photo application.
+      </p>
+      <p>The question that comes to mind here is how do these designs even get approved or put into a place
+        that consumers can use them if they are this dangerous? Well these apps are usually targeted towards
+        parents monitoring their children and bosses monitoring their employees.
+      </p>
+      <p>One such app was called StealthGenie and they were shut down for violating a federal law that prohibits the manufacturing, sale, or
+        possession of any device whose primary purpose is the surreptitious interception of wire, oral, or
+        electronic communications. After it was shut down several copycats were created in its wake, as they
+        continued to grow in their spying capabilities to include more invasive designs such as monitoring
+        youtube videos, and conversations on any app that the target can chat on along with the ability to
+        see locations that the victim has been, is currently and set a specific location as notification worthy
+        so they know when the target is in a specific spot immediately. They can also see who the top 5 callers
+        are on the phone, the top 5 call durations of those calls, top 10 frequently visited sites, and a call
+        time activity punch card which shows all of the calls and their durations for every hour of the day. They
+        can even record and listen to phone calls and record and listen to phone surroundings. But the most mind
+        boggling thing that these new apps can do is actually control the phone/tablet remotely by locking
+        it, shutting it down, wiping device data, viewing and blocking apps, being able to screenshot live,
+        monitor kind of situation that could be to the abuser’s benefit.
+      </p>
+      <p>These apps can now be used on computers instead of just phones with all the same functionality. The dark uses of these apps are apparent and even if no
+        one ever used these apps to do anything but spy on their children there is still a question of whether
+        it is morally excusable or reprehensible.
+      </p><p>
+        Because technology has been growing so fast, not a lot of laws have been created around the needs of
+        people being impacted by these design capabilities. Police officers, case workers, designers, and
+        many other people are scrambling to make up for lost time by trying to piece together legislation or
+        other solutions in order to protect victims affected negatively but for all of the people already
+        suffering it will do little to take away their pain.
+      </p>
+      <p>
+        The fault of these issues is for everyone to share, designers never should have let these products through, people who came up with the ideas should have thought
+        about how they could be used negatively, more time should have been taken in the creation process in
+        order to put up warnings and safety features instead of rushing through it for money. Now that these
+        apps are out there in the world it is the responsibility of everyone to keep information going
+        around about how technology can hurt as much as help while still pushing for the people who create these
+        apps to take accountability and make their design safer or just take them down.
+      </p>
+      <p>Technology is an amazing creation that helps keep countless people connected and live easier lives but for those who are
+        abused through it, it ruins lives, futures, and dreams while feeding the darkest kinds of abusers and their
+        appetites. Design without ethics is irresponsible and damaging to everyone who comes in contact with
+        it and it is the responsibility of all to keep it and the people abusing it in check.
+      </p>
+
+    </article>
+
+  </div>
+</body><script src="/BlogPosts/Ethics.HASH_REF_7a307fc35598d7cb934d1e7d77a80e8b.js"></script>

@@ -1,0 +1,65 @@
+<!--FOR ALL NONHOME PAGES-->
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title></title>
+  <link rel="stylesheet" href="30a711ca95f9f1480da4d1149ba1342c">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+
+<body class="nav__img-small">
+  <header>
+    <nav class="navbar">
+      <div class="container">
+        <div class="nav__navbar">
+          <Button class="nav__button">
+            <a href="7a538bc2d1ac671a3c3c05d2a3562f70">
+              <b>Home</b>
+            </a> 
+          </Button>
+          <Button class="nav__button"> 
+            <a href="3ec07d7232cefb4ecf80dcca86eb0ce1">
+              <b>Blogs</b>
+            </a>
+          </Button>
+          <Button class="nav__button"> 
+            <a href="5d30bf6119b80998cb68ecce70fcf3d7">
+              <b>About</b>
+            </a> 
+          </Button>
+        </div>
+      </div>
+    </nav>
+  </header>
+</body>
+<!--FOR ALL NONHOME PAGES-->
+
+<body>
+  <div class="content-about__layout">
+    <div class="content-about__layout-small">
+
+      <section class="content-about__text-format">
+        <h3>Krystal Oliver</h3>
+        <p>My first love has always been creative expression, it at first presented itself through drawing and
+          writing and through the years and schooling I have picked up painting, photography, graphic design, and
+          ceramics all of which I enjoy combining together. I would like to grow as a creative mind and use the experiences
+          I’ve had over the years to experiment with different ideas of expression.
+        </p>
+        <p>I first became interested in computer science in college. I enjoy the logic and structure of
+          programming as well as the psychology behind HCI (human computer interaction) and decided to further my studies in
+          it. I was accepted on a scholarship to the Grace Hopper Celebration in 2018, a celebration of women in
+          computer science, where I learned more about front end development and how I could combine my love and
+          experience in art with my fascination with computer science and programming.</p>
+      </section>
+
+    </div>
+
+    <div class="content-about__layout-small">
+      <img class="image-about" src="f005ad2ec623707f0479412f5b2cc47e" alt="picture of Krystal Oliver">
+    </div>
+
+  </div>
+</body><script src="7c9cee5d8289ba99f5d2d140870c3bf5"></script>

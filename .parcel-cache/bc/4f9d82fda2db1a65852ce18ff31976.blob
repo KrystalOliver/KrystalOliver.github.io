@@ -1,0 +1,1121 @@
+<!--FOR ALL NONHOME PAGES-->
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title></title>
+    <link rel="stylesheet" href="/index.HASH_REF_3266f35b225651ee0ffc16ce31d26d56.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+
+<body class="nav__img-small">
+    <!--header-->
+    <header>
+        <nav class="navbar">
+            <div class="container">
+                <div class="nav__navbar">
+                    <Button class="nav__button"> <a href="/index.html"><b>Home</b></a> </Button>
+                    <Button class="nav__button"> <a href="/Blogs.html"><b>Blogs</b></a> </Button>
+                    <Button class="nav__button"> <a href="/About.html"><b>About</b></a> </Button>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+</body>
+
+<!--FOR ALL NONHOME PAGES-->
+
+<body style="background-color: #ECECEA;
+">
+    <div class="content-blogs__layout">
+            <p class="content__text-big text__left">HTML elements and Semantic HTML</p>
+            <p class="content__text-small">Posted on June 7, 2021</p>
+
+        <img class="image-blog" src="/HTMLonlaptopAesthetic.HASH_REF_daf415b7e798b6c81a6b9f3b113db548.jpg" alt="For Decoration, laptop showing code on the screen. Aesthetic plants, candle and coffee in background">
+        <article class="content__text-regular">
+            <p class="has-dropcap">The internet has become a vital part of everyday life, and plenty of people share
+                everything online or advertise their products or services with multiple web-based platforms. Because of
+                the ease of use of the internet and the wealth of knowledge that is stored on there, a lot of people can
+                start to build their own websites, blogs, or platforms for their needs.
+            </p>
+            <p>Originally there were only a few specialized people who really knew how to build things for the web and
+                because of that there came a huge insurgence of sites that would build things for you, such as Wix and
+                Squarespace. They build a whole site or page for you without you knowing anything at all about coding or
+                how the internet works, all for a fee. Along with the added fees of the sites you also had a limited
+                flexibility of how your content was presented but over the years it has become easier for the every-day
+                person to understand how to code and build things from scratch.</p>
+            <p>It is now more than possible that someone could watch a few youtube videos on HTML and CSS and get
+                started on building their own sites, spending less money and having full flexibility. The problem is
+                that a lot of people get overwhelmed by the amount of tags and elements that HTML has and they get
+                discouraged from trying to code. They are not scary, though! They have even gotten easier to read and
+                format over the years, so here is a collection of different tags and their uses and definitions to help
+                you get started.</p>
+
+            <section>
+                <b class="content__text-medium">Root Element</b>
+                <p>
+                    &#x0003C;section&#x0003E;
+
+                    &#x0003C;html> tag contains the whole document
+                </p>
+            </section>
+            <section>
+                <b class="content__text-medium">Document Metadata</b>
+                <p>The Metadata elements are usually at the start of a file, it helps set up a page or site, most of
+                    these
+                    will be needed for all coding projects.</p>
+                <dl>
+                    <dt>
+                        <p class="content__text-medium text__unbold">
+                            &#x0003C;head>
+                        </p>
+                    </dt>
+
+                    <dd>defines the document’s header block, provides general information (metadata) about the document,
+                        including its title and links to/definitions of scripts and style sheets</dd>
+
+                    <dt>
+                        <p class="content__text-medium text__unbold">
+                            &#x0003C;title>
+                        </p>
+                    </dt>
+
+                    <dd>Specifies the document's title</dd>
+
+                    <dt>
+                        <p class="content__text-medium text__unbold">
+                            &#x0003C;base>
+                        </p>
+                    </dt>
+
+                    <dd>specifies the base URL to use for all relative URLs in a document, can only be one in the
+                        document</dd>
+
+                    <dt>
+                        <p class="content__text-medium text__unbold">
+                            &#x0003C;link>
+                        </p>
+                    </dt>
+
+                    <dd>Gives relational information for documents, linking things such as images and videos</dd>
+
+                    <dt>
+                        <p class="content__text-medium text__unbold">
+                            &#x0003C;meta>
+                        </p>
+                    </dt>
+
+                    <dd>Provides information for the document. data (information) about data</dd>
+
+                    <dt>
+                        <p class="content__text-medium text__unbold">
+                            &#x0003C;style>
+                        </p>
+                    </dt>
+
+                    <dd>contains> presentational attributes, styling your design</dd>
+                </dl>
+            </section>
+            <section>
+                <b class="content__text-medium">Sections</b>
+                <p>These are going to be for the main pages, the basic formatting of a site, an organization of sorts.
+                </p>
+                <dl>
+                    <dt>
+                        <p class="content__text-medium text__unbold">
+                            &#x0003C;body>
+                        </p>
+                    </dt>
+
+                    <dd> contains all renderable elements, this holds the main chunks of code for your design. All the
+                        contents of an HTML document, such as text, hyperlinks, images, tables, lists, etc</dd>
+
+                    <dt>
+                        <p class="content__text-medium text__unbold">
+                            &#x0003C;article>
+                        </p>
+                    </dt>
+
+                    <dd>This represents a self-contained composition in a document, page, application, or site. Examples
+                        include: a forum post, a magazine or newspaper article, or a blog entry</dd>
+
+                    <dt>
+                        <p class="content__text-medium text__unbold">
+                            &#x0003C;section>
+                        </p>
+                    </dt>
+
+                    <dd>defines a section in a document such as chapters, headers, footers or any other sections that
+                        groups a generic block of related contents. Such as a heading and a paragraph</dd>
+
+                    <dt>
+                        <p class="content__text-medium text__unbold">
+                            &#x0003C;nav>
+                        </p>
+                    </dt>
+
+                    <dd>Defines a navigation section of links, such as social media links. is intended only for major
+                        blocks of navigation links</dd>
+
+                    <dt>
+                        <p class="content__text-medium text__unbold">
+                            &#x0003C;h1>
+                        </p>
+                    </dt>
+
+                    <dd>Inserts a level 1 heading - this is going to make text large and bold, h1 is the biggest</dd>
+
+                    <dt>
+                        <p class="content__text-medium text__unbold">
+                            &#x0003C;h2>
+                        </p>
+                    </dt>
+
+                    <dd>Inserts a level 2 heading - this is going to be slightly smaller than h1</dd>
+
+                    <dt>
+                        <p class="content__text-medium text__unbold">
+                            &#x0003C;h3>
+                        </p>
+                    </dt>
+
+                    <dd>Inserts a level 3 heading - this is going to be slightly smaller than h2</dd>
+
+                    <dt>
+                        <p class="content__text-medium text__unbold">
+                            &#x0003C;h4>
+                        </p>
+                    </dt>
+
+                    <dd>Inserts a level 4 heading - this is going to be slightly smaller than h3</dd>
+
+                    <dt>
+                        <p class="content__text-medium text__unbold">
+                            &#x0003C;h5>
+                        </p>
+                    </dt>
+
+                    <dd>Inserts a level 5 heading - this is going to be slightly smaller than h4</dd>
+
+                    <dt>
+                        <p class="content__text-medium text__unbold">
+                            &#x0003C;h6>
+                        </p>
+                    </dt>
+
+                    <dd>Inserts a level 6 heading - h6 is the smallest of the headings.</dd>
+
+                    <dt>
+                        <p class="content__text-medium text__unbold">
+                            &#x0003C;hgroup>
+                        </p>
+                    </dt>
+
+                    <dd>groups consecutive headings</dd>
+
+                    <dt>
+                        <p class="content__text-medium text__unbold">
+                            &#x0003C;header>
+                        
+                    </p></dt>
+
+                    <dd>contains the header of a section, the top section of a site, and holds things such as a logo,
+                        search engine or a navigation bar</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;footer>
+                        </h5>
+                    </dt>
+
+                    <dd>contains the footer of a section, bottom of the page, holding meta information, such as author
+                        details, legal information, and/or links to related information or social links</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;address>
+                        </h5>
+                    </dt>
+
+                    <dd>provides contact information</dd>
+                </dl>
+            </section>
+            <section>
+                <b class="content__text-medium">Grouping Content</b>
+                <p>Elements such as &#x0003C;header>, &#x0003C;nav>, &#x0003C;section>, &#x0003C;article>,
+                    &#x0003C;aside>, and &#x0003C;footer> act more or less
+                    like &#x0003C;div> elements, or a container of sorts that holds content. They group
+                    other elements together into page sections. However where a &#x0003C;div> tag
+                    could contain any type of information, it is easy to identify what
+                    sort of information would go in a semantic &#x0003C;header> region.</p>
+
+                <dl>
+                    <dt>
+                        <h5>
+                            &#x0003C;p>
+                        </h5>
+                    </dt>
+
+                    <dd>inserts a paragraph</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;hr>
+                        </h5>
+                    </dt>
+
+                    <dd>draws a horozontal line or rule
+                        <hr>
+                    </dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;pre>
+                        </h5>
+                    </dt>
+
+                    <dd>defines a block of preformatted text</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;blockquote>
+                        </h5>
+                    </dt>
+
+                    <dd>block level quotation </dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;ol>
+                        </h5>
+                    </dt>
+
+                    <dd>inserts an ordered list, meaning the placement of the list items matter such as a numbered list
+                    </dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;ul>
+                        </h5>
+                    </dt>
+
+                    <dd>inserts an unordered list, meaning the items on the list are in no particular order, such as a
+                        bulleted list</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;menu>
+                        </h5>
+                    </dt>
+
+                    <dd>inserts a toolbar menu </dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;li>
+                        </h5>
+                    </dt>
+
+                    <dd>defines a list item, these will go inside of the &#x0003C;ol> and &#x0003C;ul> tags</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;dl>
+                        </h5>
+                    </dt>
+
+                    <dd>inserts a definitions list, list of items that will be described</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;dt>
+                        </h5>
+                    </dt>
+
+                    <dd>defines a definitions list, a list of items that will be described</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;dd>
+                        </h5>
+                    </dt>
+
+                    <dd>provides descriptions in a list, the describing of &#x0003C;dt>, you can have paragraphs, line
+                        breaks,
+                        and images in this section</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;figure>
+                        </h5>
+                    </dt>
+
+                    <dd>marks its content as a reference, self-contained content, like illustrations, diagrams, photos,
+                        code listings, etc that if removed would not have an effect on the flow</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;figcaption>
+                        </h5>
+                    </dt>
+
+                    <dd>defines a caption for a &#x0003C;figure> element, such as captions on an image</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;main>
+                        </h5>
+                    </dt>
+
+                    <dd>acts as a main container for elements. Content inside the main element should be unique to the
+                        document. It should not contain any content that is repeated across documents such as sidebars,
+                        navigation links, copyright information, site logos, and search forms</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;div>
+                        </h5>
+                    </dt>
+
+                    <dd>defines a block of content</dd>
+                </dl>
+            </section>
+            <section>
+                <b class="content__text-medium">Text-level Semantics</b>
+                <p>These are for text elements, handy if you are wanting to design your text or other text items that
+                    need to be used or grouped.</p>
+
+                <dl>
+                    <dt>
+                        <h5>
+                            &#x0003C;a>
+                        </h5>
+                    </dt>
+
+                    <dd>inserts links or bookmarks</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;em>
+                        </h5>
+                    </dt>
+
+                    <dd>indicaties <em>emphasis</em> which traditionally means that the text is displayed in italics by
+                        the
+                        browser</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;strong>
+                        </h5>
+                    </dt>
+
+                    <dd>indicates strong emphasis which traditionally means that the text is displayed as bold by the
+                        browser</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;small>
+                        </h5>
+                    </dt>
+
+                    <dd>renders text in <small>small</small> font</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;s>
+                        </h5>
+                    </dt>
+
+                    <dd>content no longer accurate or relevant, the text will be displayed with a <s>line through it</s>
+                    </dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;cite>
+                        </h5>
+                    </dt>
+
+                    <dd>inserts a citation or reference, defines the <cite>title of a creative work </cite>usually
+                        displayed in
+                        italics</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;q>
+                        </h5>
+                    </dt>
+
+                    <dd>inserts an inline quotation, shows that you are putting a quote in it and <q>puts the quotation
+                            marks around it</q></dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;dfn>
+                        </h5>
+                    </dt>
+
+                    <dd>provides a definition for a term</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;dl>
+                        </h5>
+                    </dt>
+
+                    <dd>inserts a definitions list, list of items that will be described</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;abbr>
+                        </h5>
+                    </dt>
+
+                    <dd>explains abbreviations, it shows the abbreviated version but allows you to add the full title in
+                        there as well so a user can understand the entire title if they need to</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;ruby>
+                        </h5>
+                    </dt>
+                    <dd>inserts ruby annotated text. This is paired with the &#x0003C;rt> tag</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;rt>
+                        </h5>
+                    </dt>
+
+                    <dd>provides a ruby annotation. Ruby annotation is a small extra text, attached to the main text to
+                        indicate the pronunciation or meaning of the corresponding characters. This kind of annotation
+                        is often used in Japanese publications</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;rp>
+                        </h5>
+                    </dt>
+
+                    <dd>makes text to be ignored in ruby, optional pairing for rt and ruby tags that defines what to
+                        show for browsers that do not support ruby annotations, sort of like an alternative text</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;data>
+                        </h5>
+                    </dt>
+
+                    <dd>used to add a machine-readable translation of a given content</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;time>
+                        </h5>
+                    </dt>
+
+                    <dd>defines a specific time (or datetime). used to translate the time into a machine-readable format
+                        so that browsers can offer to add date reminders through the user's calendar, and search engines
+                        can produce smarter search results </dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;code>
+                        </h5>
+                    </dt>
+
+                    <dd>represents computer code, element displays its contents styled in a fashion intended to indicate
+                        that the text is a short fragment of computer code such as: <code> Push() </code> and
+                        <code> &#x0003C;code></code></dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;var>
+                        </h5>
+                    </dt>
+
+                    <dd>indicates an instance of a variable, used to define a variable in programming or in a
+                        mathematical expression. The content inside is typically displayed in italic</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;samp>
+                        </h5>
+                    </dt>
+
+                    <dd>contains a progran’s sample output, used to define sample output from a computer program. The
+                        content inside is displayed in the browser's default monospace font</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;kbd>
+                        </h5>
+                    </dt>
+
+                    <dd>represents text entered by users, used to define keyboard input. The content inside is displayed
+                        in the browser's default monospace font</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;sub>
+                        </h5>
+                    </dt>
+
+                    <dd>defines subscript text, Subscript text appears half a character below the normal line, and is
+                        sometimes rendered in a smaller font. Subscript text can be used for chemical formulas, like
+                        H<sub>2</sub>O</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;sup>
+                        </h5>
+                    </dt>
+
+                    <dd>Defines superscript, Superscript text appears half a character above the normal line, and is
+                        sometimes rendered in a smaller font. Superscript text can be used for footnotes, like
+                        WWW<sup>[1]</sup></dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;i>
+                        </h5>
+                    </dt>
+                    <dd>renders <i>italic text</i></dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;b>
+                        </h5>
+                    </dt>
+
+                    <dd>text in <b>bold style</b></dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;u>
+                        </h5>
+                    </dt>
+
+                    <dd>This will make text <u>underlined</u></dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;mark>
+                        </h5>
+                    </dt>
+
+                    <dd>Defines text that should be <mark>marked</mark> or <mark>highlighted</mark></dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;dbi>
+                        </h5>
+                    </dt>
+
+                    <dd>Isolates for bidirectional formatting, isolates a part of text that might be formatted in a
+                        different direction from other text outside it</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;bdo>
+                        </h5>
+                    </dt>
+
+                    <dd>Overrides the bidirectional algorithm, used to override the current text direction, here I am
+                        causing it
+                        to go <bdo dir="rtl">backwards</bdo></dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;span>
+                        </h5>
+                    </dt>
+
+                    <dd>Assign attributes to text, an inline container used to mark up a part of a text, or a part of a
+                        document. much like the < div> element, but < div> is a block-level element and < span> is an
+                                    inline element</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;br>
+                        </h5>
+                    </dt>
+
+                    <dd>Forces a line break, this is a dated tag and only used in rare circumstances</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;wbr>
+                        </h5>
+                    </dt>
+                    <dd>Represents a line break opportunity, specifies where in a text it would be ok to add a
+                        line-break if there are long words in a responsive design </dd>
+                </dl>
+            </section>
+            <section>
+                <b class="content__text-medium">Edits </b>
+                <dl>
+                    <dt>
+                        <h5>
+                            &#x0003C;ins>
+                        </h5>
+                    </dt>
+                    <dd>Indicates inserted text, <ins>underlined usually</ins></dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;del>
+                        </h5>
+                    </dt>
+                    <dd>Indicates deleted text, usually has a<del> line through it</del></dd>
+                </dl>
+            </section>
+
+            <section>
+                <b class="content__text-medium">Embedded Content</b>
+                <p>These are things that are external that you are bringing into your code, if you have an image or a
+                    video you want to have in your design, these are the tags you should look at!</p>
+                <dl>
+                    <dt>
+                        <h5>
+                            &#x0003C;picture>
+                        </h5>
+                    </dt>
+                    <dd>Inserts a multi source image. The most common use of this element will be for art direction in
+                        responsive designs. Instead of having one image that is scaled up or down based on the viewport
+                        width, multiple images can be designed to more nicely fill the browser viewport </dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;scource>
+                        </h5>
+                    </dt>
+                    <dd>Specifies alternative media resources in case there are problems loading one you have a backup
+                    </dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;img>
+                        </h5>
+                    </dt>
+                    <dd>Inserts an image, they are not technically inserted into a web page; they are linked to web
+                        pages. The &#x0003C;img> tag creates a holding space for the referenced image and requires a
+                        source and
+                        an alternative text</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;iframe>
+                        </h5>
+                    </dt>
+
+                    <dd>Inserts a frame inside a document, An inline frame is used to embed another document within the
+                        current HTML document</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;embed>
+                        </h5>
+                    </dt>
+
+                    <dd>Integrates external applications, embedding external content at the specified point in the
+                        document such as video and audio. This is an old tag, consider using &#x0003C;object> instead
+                    </dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;object>
+                        </h5>
+                    </dt>
+
+                    <dd>Runs external applications, defines a container for an external resource</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;param>
+                        </h5>
+                    </dt>
+
+                    <dd>Sets a parameter for an &#x0003C;object>
+                    </dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;video>
+                        </h5>
+                    </dt>
+
+                    <dd>Inserts videos in the document</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;audio>
+                        </h5>
+                    </dt>
+
+                    <dd>Inserts audio files in the document </dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;track>
+                        </h5>
+                    </dt>
+
+                    <dd>Provides text tracks for a video</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;map>
+                        </h5>
+                    </dt>
+
+                    <dd>Defines a client-side image map</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;area>
+                        </h5>
+                    </dt>
+
+                    <dd>Defines sectors for image map</dd>
+
+                    <p> To embed a picture, it is better to use the &#x0003C;img> or &#x0003C;picture> tag.</p>
+                    <p>To embed HTML, it is better to use the &#x0003C;iframe> tag.</p>
+                    <p>To embed video or audio, it is better to use the &#x0003C;video> and &#x0003C;audio> tags.</p>
+                    <p>Otherwise use the &#x0003C;object> tag.</p>
+                </dl>
+            </section>
+
+            <section>
+                <b class="content__text-medium">Tabular Data</b>
+                <p>These tags won't necessarily be used by everyone but these are for table contents. If you need to
+                    make or display a table then take a glance at these, they are also good if you want to put items on
+                    a sort of grid or system.</p>
+                <dl>
+                    <dt>
+                        <h5>
+                            &#x0003C;table>
+                        </h5>
+                    </dt>
+                    <dd>Inserts a table </dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;caption>
+                        </h5>
+                    </dt>
+                    <dd>Provides a caption for a table</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;colgroup>
+                        </h5>
+                    </dt>
+                    <dd>Groups columns in a table</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;col>
+                        </h5>
+                    </dt>
+
+                    <dd>Sets attributes for a table's columns</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;tbody>
+                        </h5>
+                    </dt>
+
+                    <dd>Defines the body of a table</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;thead>
+                        </h5>
+                    </dt>
+
+                    <dd>Defines the header of a table</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;tfoot>
+                        </h5>
+                    </dt>
+
+                    <dd>Defines the footer of a table</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;tr>
+                        </h5>
+                    </dt>
+
+                    <dd>Inserts a row in a table</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;td>
+                        </h5>
+                    </dt>
+
+                    <dd>Inserts a regular cell in a table </dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;th>
+                        </h5>
+                    </dt>
+
+                    <dd>Inserts a header cell in a table</dd>
+                </dl>
+            </section>
+
+            <section>
+                <b class="content__text-medium">Forms</b>
+                <p>These are good for forms, but they can also be used for other things as well! For example you can
+                    label or make a button for multiple different things but these are all things you might want on a
+                    form if you wanted to make one. </p>
+                <dl>
+                    <dt>
+                        <h5>
+                            &#x0003C;form>
+                        </h5>
+                    </dt>
+                    <dd>Inserts a form </dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;label>
+                        </h5>
+                    </dt>
+                    <dd>Sets a label for a control</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;input>
+                        </h5>
+                    </dt>
+                    <dd>Displays an input control</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;button>
+                        </h5>
+                    </dt>
+
+                    <dd>Creates a button control</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;select>
+                        </h5>
+                    </dt>
+
+                    <dd>Creates a select control</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;datalist>
+                        </h5>
+                    </dt>
+
+                    <dd>Provides suggestions for input fields</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;optgroup>
+                        </h5>
+                    </dt>
+
+                    <dd>Groups options in a select control</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;option>
+                        </h5>
+                    </dt>
+
+                    <dd>Inserts an option in a select control</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;textarea>
+                        </h5>
+                    </dt>
+
+                    <dd>Creates a multiline text input </dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;output>
+                        </h5>
+                    </dt>
+
+                    <dd>Shows the output of a process</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;meter>
+                        </h5>
+                    </dt>
+
+                    <dd>Represents a measurement</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;fieldset>
+                        </h5>
+                    </dt>
+
+                    <dd>Groups controls in a form </dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;legend>
+                        </h5>
+                    </dt>
+
+                    <dd>Assigns a caption for a fieldset</dd>
+                </dl>
+            </section>
+
+            <section>
+                <b class="content__text-medium">Interactive Elements </b>
+                <dl>
+                    <dt>
+                        <h5>
+                            &#x0003C;details>
+                    </h5></dt>
+                    
+                    <dd>Provides collapsable information, additional details that the user can open and close on demand,
+                        it's often used to create an interactive widget that the user can open and close</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;summary>
+                    </h5></dt>
+                    
+                    <dd>Defines a visible heading for the <d etails=""> element. The heading can be clicked to view/hide
+                            the details</d></dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;dialog>
+                    </h5></dt>
+                    
+                    <dd>Inserts a dialog box</dd>
+                </dl>
+            </section>
+
+            <section>
+                <b class="content__text-medium">Scripting </b>
+                <dl>
+                    <dt>
+                        <h5>
+                            &#x0003C;script>
+                        </h5>
+                    </dt>
+
+                    <dd>Contains scripts</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;noscript>
+                        </h5>
+                    </dt>
+
+                    <dd>Provides template for data to come</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;slot>
+                        </h5>
+                    </dt>
+
+                    <dd>Placeholder for data in components</dd>
+
+                    <dt>
+                        <h5>
+                            &#x0003C;canvas>
+                        </h5>
+                    </dt>
+
+                    <dd>Renders dynamic bitmap graphics</dd>
+                </dl>
+            </section>
+
+            <section>
+                <b class="content__text-medium">Semantic HTML </b>
+                <p>Semantic HTML is the correct use of HTML to reinforce the meaning of content on a web page, rather
+                    than merely define its appearance. It isn’t necessarily going to add any design to the site but it
+                    will make things easier to understand and navigate, for you and other people as well. Semantically
+                    correct HTML helps search engines, screen readers, and other user devices determine the significance
+                    and context of web content. </p>
+                <p>In order to effectively represent the meaning of content, appropriate HTML elements are chosen
+                    according to inherent meaning, rather than how they appear visually on a rendered web page. They
+                    also lead to more consistent code and makes it easier to read and follow while you are coding.
+                    Semantic HTML elements are those that clearly describe their meaning in a human- and
+                    machine-readable way so it is easy to understand the information being presented from a user and
+                    machine way.
+                    These were described earlier in the other sections, but collected here as another reference to
+                    different semantic HTML elements.
+                </p>
+                <ul>
+                    <li>
+                        &#x0003C;article>
+                    </li>
+                    <li>
+                        &#x0003C;aside>
+                    </li>
+                    <li>
+                        &#x0003C;details>
+                    </li>
+                    <li>
+                        &#x0003C;figcaption>
+                    </li>
+                    <li>
+                        &#x0003C;figure>
+                    </li>
+                    <li>
+                        &#x0003C;footer>
+                    </li>
+                    <li>
+                        &#x0003C;header>
+                    </li>
+                    <li>
+                        &#x0003C;main>
+                    </li>
+                    <li>
+                        &#x0003C;mark>
+                    </li>
+                    <li>
+                        &#x0003C;nav>
+                    </li>
+                    <li>
+                        &#x0003C;section>
+                    </li>
+                    <li>
+                        &#x0003C;summary>
+                    </li>
+                    <li>
+                        &#x0003C;time>
+                    </li>
+                </ul>
+                <p>And a couple of non-semantic tags for comparison:</p>
+                <ul>
+                    <li>
+                        &#x0003C;div>
+                    </li>
+                    <li>
+                        &#x0003C;span>
+                    </li>
+                </ul>
+            </section>
+        </article>
+    </div>
+
+</body><script src="/BlogPosts/HTML-Elements.HASH_REF_0605927553b68362dce4f093e76956d8.js"></script>
