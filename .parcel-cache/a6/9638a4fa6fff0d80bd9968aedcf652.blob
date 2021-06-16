@@ -1,0 +1,66 @@
+<!--FOR ALL NONHOME PAGES-->
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title></title>
+  <link rel="stylesheet" href="/index.HASH_REF_3266f35b225651ee0ffc16ce31d26d56.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+
+<body class="nav__img-small">
+  <header>
+    <nav class="navbar">
+      <div class="container">
+        <div class="nav__navbar">
+          <Button class="nav__button">
+            <a href="/index.html">
+              <b>Home</b>
+            </a>
+
+          </Button>
+          <Button class="nav__button">
+            <a href="/Blogs.html">
+              <b>Blogs</b>
+            </a>
+          </Button>
+          <Button class="nav__button">
+            <a href="/About.html">
+              <b>About</b>
+            </a>
+          </Button>
+        </div>
+      </div>
+    </nav>
+  </header>
+</body>
+<!--FOR ALL NONHOME PAGES-->
+
+<body>
+  <div class="content-about__layout">
+    <div class="content-about__layout-small">
+
+      <section class="content-about__text-format">
+        <h3>Krystal Oliver</h3>
+        <p>My first love has always been creative expression, it at first presented itself through drawing and
+          writing and through the years and schooling I have picked up painting, photography, graphic design, and
+          ceramics all of which I enjoy combining together. I would like to grow as a creative mind and use the experiences
+          I’ve had over the years to experiment with different ideas of expression.
+        </p>
+        <p>I first became interested in computer science in college. I enjoy the logic and structure of
+          programming as well as the psychology behind HCI (human computer interaction) and decided to further my studies in
+          it. I was accepted on a scholarship to the Grace Hopper Celebration in 2018, a celebration of women in
+          computer science, where I learned more about front end development and how I could combine my love and
+          experience in art with my fascination with computer science and programming.</p>
+      </section>
+
+    </div>
+
+    <div class="content-about__layout-small">
+      <img class="image-about" src="/AboutMe.HASH_REF_1a09d8f088c921303b2a6386d1db5228.jpeg" alt="picture of Krystal Oliver">
+    </div>
+
+  </div>
+</body><script src="/About.HASH_REF_b0dce529c500f25798be3df8c1a40088.js"></script>
