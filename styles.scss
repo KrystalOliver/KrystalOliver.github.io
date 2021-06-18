@@ -6,10 +6,13 @@
 :root {
   --Playfair: 'Playfair Display', serif;
   --Roboto: 'Roboto', sans-serif;
-  --light: #ECECEA
+  --light: #ECECEA;
+  --link: #8E99BC;
+  --hover: #808080;
+  --small-text: #a9a9a9;
 }
 .link--secondary {
-  color: #8E99BC;
+  color: var(--link);
   font-family: var(--Roboto);
   font-size: 1.6rem;
   font-weight: bold;
@@ -30,7 +33,7 @@
   padding: 2rem 0 1rem 0;
   text-align: center;
 
-  @media (min-width: 700px) {
+  @media screen and (min-width: 43em) {
     padding: 2rem 2.5rem 1rem 0;
     text-align: right;
   }
@@ -91,11 +94,11 @@
 
 .content-front__wrapper {
   justify-content: center;
-  margin: 17rem 0 10rem 1.5rem;
   position: absolute; 
-  top: 26rem;
+  top: 43rem;
+  left: 2rem;
   
-  @media (min-width: 55em) {
+  @media screen and (min-width: 55em) {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(25rem, 1fr));
     margin: 1.35rem 0 0 1.5rem;
@@ -113,7 +116,7 @@
   align-content: center;
   padding: 6rem 1rem 1rem 1rem;
 
-  @media (min-width: 43.7em) {
+  @media screen and (min-width: 43.7em) {
     padding-top: 5rem;
   }
 }
@@ -123,7 +126,7 @@
 }
 
 .content__text-small {
-  color: #a9a9a9;
+  color: var(--small-text);
   font-family: var(--Roboto);
   font-size: 1rem;
 }
@@ -152,6 +155,7 @@
 
 .text__left {
   padding: 0;
+  margin: 0;
   text-align: left;
 }
 
@@ -163,7 +167,7 @@
   background-color: var(--light);
   padding: 2rem;
 
-  @media (min-width: 75em) {
+  @media screen and (min-width: 75em) {
     display: inline-block;
     margin: 0 1rem 0 10%;
     width: 30rem;
@@ -173,18 +177,18 @@
 .content-front__text-small {
   font-family: var(--Roboto);
   font-size: 1rem;
-  color: #a9a9a9;
+  color: var(--small-text);
   text-align: right;
 }
 
 .content-front__text-small:hover {
-  color: #808080;
+  color:var(--hover);
 }
 
 .content-blogs__layout {
   margin: 5rem 0 5rem 2rem;
 
-  @media (min-width: 62.5em) {
+  @media screen and (min-width: 62.5em) {
     margin: 5rem 10rem 10rem 6rem;
   }
 }
@@ -196,7 +200,7 @@
 }
 
 .content-posts__text-name:hover {
-  color: #808080;
+  color: var(--hover);
 }
 
 .has-dropcap:first-letter {
@@ -222,9 +226,9 @@
 .image-blog {
   width: 30rem;
 
-  @media (min-width: 62.5em) {
-    height: 37rem;
-    width: 56rem;
+  @media screen and (min-width: 62.5em) {
+    height: 28rem;
+    width: 45rem;
   }
 }
 
@@ -232,12 +236,12 @@
   display: inline-block;
   width: 80%;
 
-  @media (min-width: 56em) {
+  @media screen and (min-width: 56em) {
     margin-left: auto;
     margin-right: 8rem;
   }
 
-  @media (min-width: 75em) {
+  @media screen and (min-width: 75em) {
     display: inline-block;
     margin-left: 0;
     width: 33rem;
@@ -245,10 +249,10 @@
 }
 
 .image-blog__article {
-  padding: .5rem;
+  padding: 10px;
   width: 24rem;
 
-  @media (min-width: 62.5em) {
+  @media screen and (min-width: 62.5em) {
     width: 28rem;
   }
 }
