@@ -1,44 +1,44 @@
 .navbar {
-    padding: 2rem 0 1rem 0;
-    text-align: center;
-  
-    @media screen and (min-width: 43em) {
-      padding: 2rem 2.5rem 1rem 0;
-      text-align: right;
-    }
+  padding: 2rem 0 1rem 0;
+  text-align: center;
+
+  @media screen and (min-width: 43em) {
+    padding: 2rem 2.5rem 1rem 0;
+    text-align: right;
   }
-  
-  .nav__navbar a {
-    display: inline-block;
-    letter-spacing: .2rem;
-    padding: 0.4rem 0.1rem;
-  }
-  
-  .nav__img {
-    background-image: url("./Images.html/NavImg.jpg");
-    background-repeat: no-repeat;
-    background-size: 120rem 40rem;
-    padding-bottom: 15rem;
-  }
-  
-  .nav__img-small {
-    background-image: url("./Images.html/NavBarSmall.jpg");
-    background-repeat: no-repeat;
-    background-size: 121rem 10rem;
-  }
-  
-  .nav__button {
-    background-color: white;
-    border: none;
-    border-radius: 3.12rem;
-    font-family: var(--Playfair);
-    font-size: 1.25rem;
-    margin: .625rem;
-    padding: .625rem 1.875rem;
-    size: 1.875rem;
-    text-align: center;
-  }
-  
-  .nav__button:hover {
-    background-color: var(--light);
-  }
+}
+
+.nav__navbar a {
+  display: inline-block;
+  letter-spacing: .2rem;
+  padding: 0.4rem 0.1rem;
+}
+
+.nav__img {
+  background-image: url("./Images.html/NavImg.jpg");
+  background-repeat: no-repeat;
+  background-size: 120rem 40rem;
+  padding-bottom: 15rem;
+}
+
+.nav__img-small {
+  background-image: url("./Images.html/NavBarSmall.jpg");
+  background-repeat: no-repeat;
+  background-size: 121rem 10rem;
+}
+
+.nav__button {
+  background-color: var(--white);
+  border: none;
+  border-radius: 3.12rem;
+  font-family: var(--Playfair);
+  font-size: 1.25rem;
+  margin: .625rem;
+  padding: .625rem 1.875rem;
+  size: 1.875rem;
+  text-align: center;
+}
+
+.nav__button:hover {
+  background-color: var(--light);
+}

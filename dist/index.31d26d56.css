@@ -27,7 +27,7 @@
   background-size: 121rem 10rem;
 }
 .nav__button {
-  background-color: white;
+  background-color: var(--white);
   border: none;
   border-radius: 3.12rem;
   font-family: var(--Playfair);
@@ -47,6 +47,8 @@
   --link: #8E99BC;
   --hover: #808080;
   --small-text: #a9a9a9;
+  --white: white;
+  --black: black;
 }
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 /* Document
@@ -353,11 +355,6 @@ template {
 [hidden] {
   display: none;
 }
-.text__left {
-  padding: 0;
-  margin: 0;
-  text-align: left;
-}
 .text__unbold {
   font-weight: normal;
 }
@@ -367,6 +364,12 @@ template {
 .text-center {
   text-align: center;
 }
+.padding-2rem {
+  padding: 2rem;
+}
+.inline {
+  display: inline;
+}
 .link--secondary {
   color: var(--link);
   font-family: var(--Roboto);
@@ -374,7 +377,7 @@ template {
   font-weight: bold;
 }
 .link--primary {
-  color: black;
+  color: var(--black);
   text-decoration: none;
 }
 .content__text-small {
@@ -398,8 +401,6 @@ template {
   font-size: 2.5rem;
   font-weight: bolder;
   line-height: 1;
-  padding: 2rem;
-  text-align: center;
 }
 .content-front__text-small {
   font-family: var(--Roboto);
@@ -426,19 +427,16 @@ template {
   line-height: 0.65;
   padding: 0.1em;
   border-radius: 50%;
-  background-color: white;
+  background-color: var(--white);
 }
-.header__quotes-pill {
-  background-color: white;
-  border-radius: 3.12rem;
+.container__pill {
+  background-color: var(--white);
+  border-radius: 5rem;
   display: inline-block;
   font-family: var(--Playfair);
   font-size: 1.58rem;
   margin: 0.62rem 1.25rem;
   padding: 0.55rem 1.87rem;
-}
-.header__quotes-pill h2 {
-  margin: 0.62rem 1.25rem;
 }
 .image-front {
   height: 19rem;
@@ -460,17 +458,9 @@ template {
   display: inline-block;
   width: 80%;
 }
-@media screen and (min-width: 56em) {
+@media screen and (min-width: 60em) {
   .image-about {
-    margin-left: auto;
-    margin-right: 8rem;
-  }
-}
-@media screen and (min-width: 75em) {
-  .image-about {
-    display: inline-block;
-    margin-left: 0;
-    width: 33rem;
+    width: 32rem;
   }
 }
 .image-blog__article {
@@ -482,39 +472,30 @@ template {
     width: 28rem;
   }
 }
+.content-front__wrapper {
+  margin-top: 4rem;
+}
 @media screen and (min-width: 55em) {
   .content-front__wrapper {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(25rem, 1fr));
-    margin: 1.35rem 0 0 1.5rem;
+    margin: 2rem 0 0 1.5rem;
     position: static;
   }
 }
-.content-front__bg-color {
+.container__colored-small {
   background-color: var(--light);
   margin: 2rem auto 0;
   width: 25rem;
 }
-.content-about__layout {
-  align-content: center;
-  padding: 6rem 1rem 1rem 1rem;
-}
-@media screen and (min-width: 43.7em) {
-  .content-about__layout {
-    padding-top: 5rem;
-  }
-}
-.content-about__layout-inline {
-  display: inline;
-}
-.content-about__text-bgcolor {
+.container__colored-big {
   background-color: var(--light);
   padding: 2rem;
 }
 @media screen and (min-width: 75em) {
-  .content-about__text-bgcolor {
+  .container__colored-big {
     display: inline-block;
-    margin: 0 1rem 0 10%;
+    margin: 1rem;
     width: 30rem;
   }
 }
@@ -527,7 +508,6 @@ template {
   }
 }
 .width-60 {
-  padding: 2rem;
   width: 60%;
 }
 /*# sourceMappingURL=index.31d26d56.css.map */
