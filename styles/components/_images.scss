@@ -1,0 +1,42 @@
+.image-front {
+    height: 19rem;
+    width: 25rem;
+  }
+  
+  .image-front:hover {
+    opacity: 80%;
+  }
+  
+  .image-blog {
+    width: 30rem;
+  
+    @media screen and (min-width: 62.5em) {
+      height: 28rem;
+      width: 45rem;
+    }
+  }
+  
+  .image-about {
+    display: inline-block;
+    width: 80%;
+  
+    @media screen and (min-width: 56em) {
+      margin-left: auto;
+      margin-right: 8rem;
+    }
+  
+    @media screen and (min-width: 75em) {
+      display: inline-block;
+      margin-left: 0;
+      width: 33rem;
+    }
+  }
+  
+  .image-blog__article {
+    padding: 10px;
+    width: 24rem;
+  
+    @media screen and (min-width: 62.5em) {
+      width: 28rem;
+    }
+  }
