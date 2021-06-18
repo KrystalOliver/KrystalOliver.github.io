@@ -1,0 +1,114 @@
+<!--FOR ALL NONHOME PAGES-->
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title></title>
+  <link rel="stylesheet" href="/index.31d26d56.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+  <header class="nav__img-small">
+    <nav class="navbar">
+      <div class="container">
+        <div class="nav__navbar">
+          <Button class="nav__button">
+            <a href="/index.html" class="link--primary">
+              <b>Home</b>
+            </a>
+          </Button>
+          <Button class="nav__button">
+            <a href="/Blogs.html" class="link--primary">
+              <b>Blogs</b>
+            </a>
+          </Button>
+          <Button class="nav__button">
+            <a href="/About.html" class="link--primary">
+              <b>About</b>
+            </a>
+          </Button>
+        </div>
+      </div>
+    </nav>
+  </header>
+</body>
+
+<!--FOR ALL NONHOME PAGES-->
+
+<body style="background-color: #ECECEA;
+">
+  <div class="content-blogs__layout">
+
+    <p class="content__text-big text__left">Responsive sizing</p>
+    <p class="content__text-small">Posted on June 17, 2021</p>
+    <img class="image-blog" src="/PixelPointer.ec8def55.jpeg" alt="For decoration, pointer design done with pixels">
+    <article class="content__text-regular">
+      <p class="has-dropcap">There are three main ways to size elements when coding in CSS; px, em, and rem’s.
+        Originally there were only pixels (px) for sizing things so people became comfortable with using them
+        exclusively to code their design with. Over the years technology changed rapidly and from that came the need to
+        have more flexible sizing as pixels did not measure up to the accessibility needs of current web design. Browser
+        vendors have added in more features to allow designers to create flexible and robust designs such as browser
+        zooming. Browser zooming is when the user zooms the page and everything should scale up or down depending on the
+        user preference. </p>
+      <p>Zooming is just one important part of being accessible to people in today’s world and it is the main reason
+        that designers switched over to responsive and unitless values for CSS. Users need to be able to zoom the
+        viewport without loss of content, functionality, or restrictions imposed by CSS values or viewport scaling
+        settings. Another feature of most browsers is the option to adjust your preferred font size which operates
+        independently from the page zoom feature. When changing the browser’s default font-size all fonts should scale
+        up (or down) proportionately in reference to the size of that setting, that is if there are relative CSS units
+        being used. </p>
+      <p class="content__text-medium">Pixels</p>
+      <p>Pixels are the old reliable, they are quickly translatable and it is easy to take sizes directly from Photoshop
+        straight to build for people who work with artists. Pixels used to be the only form of sizing so many people are
+        just using them because it is what they always used and it’s worked so far. Pixels are an absolute unit of
+        measurement, meaning that they are the same size regardless of anything else, although they are not consistent
+        as 16px on a laptop is not the same as 16px on a phone.
+      </p>
+      <p>The biggest problem of using pixels is that they are inaccessible because of their being absolute. If a user
+        sets their default font size in their browser then the font-sizes of individual sites should change accordingly.
+        If the sizes of fonts in the site were set using pixels they will not change to the user's new default
+        font-size. This makes the site much more difficult to navigate and understand for people who rely on the ability
+        to zoom and change font sizes. The users can still zoom in so it doesn’t completely ruin accessibility but
+        pixels are nonetheless not ideal from an accessibility and flexibility standpoint. </p>
+      <p class="content__text-medium">Ems</p>
+      <p>Ems are a relative measure of length that is based on the computed value of the font size of the parent
+        element. This means that the child elements are always dependent on their parent to set their font size in code.
+        That means that if you have a
+      </p><div> with the font size set to 16px, and a <p> element inside that
+        </p><div> with a font-size set to 2em, the font size of the text in the <p> will be 32px. If it is set to .5px, then
+            the font size will be 8px. This gives the user the freedom to adjust their default browser font size, while
+            still maintaining the relative scale of each element that is specified.</p>
+          <p>1em = 16px (1 * 16)</p>
+          <p>2em = 32px (2 * 16)</p>
+          <p>.5em = 8px (.5 * 16)</p>
+          <p>Em’s are better for responsive design because you can set breakpoints for device screens with media
+            queries, change the measurements for elements at different breakpoints and have all the em-measured elements
+            resize automatically. Because of this, em's are particularly good at being used in media queries. </p>
+          <p>Em’s are responsive and relatively easy to use until there is a lot of nested code inside of classes.
+            Because all of the em’s sizings are being directly based off of their parent size, it can become
+            unmanageable when you have multiple things nested. This means that nested elements that use EM for sizing
+            can sometimes end up being a size that you didn’t anticipate. On the other hand, it does give you more
+            fine-grained control if you need it to specify the size for a particular area of a page. That is why Rem’s
+            were created as a solution to the issue presented with em’s. </p>
+          <p class="content__text-medium">Rem's - root em's</p>
+          <p>Rem’s are another relative measure of length. They are a way of setting sizes based on the size of the root
+            HTML element; they also allow for the quick scaling of an entire project by changing the root font-size.
+            They are essentially responsive sizing but instead of being dependent on a parent element like em’s they are
+            dependent on the root font-size. </p>
+          <p>Html font size is set to 10px, paragraph is set to 1.6rem</p>
+          <p>1.6rem*10px=16px</p>
+          <p>It is essentially the same as em’s.</p>
+          <p>1rem = 16px</p>
+          <p>2rem = 32px</p>
+          <p>.5rem = 8px</p>
+          <p>It doesn't matter how deeply nested an element is, its rem length will always be a proportion of the font
+            size of <html>. These are good for sizing and spacing especially.
+          </html></p>
+          <p class="content__text-medium">Helpful links:</p>
+          <p><a href="http://www.standardista.com/px-to-rem-conversion-if-root-font-size-is-16px/" class="link--secondary">Here </a>is a
+            conversion chart for pixels to rem if the default size of fonts is 16px.</p>
+          <p><a href="http://pxtoem.com/" class="link--secondary">Here </a>is a conversion calculator for pixels to
+            em.</p>
+    </div></div></article></div></body><script src="/BlogPosts/PXvEMvREM.964307ae.js"></script>
