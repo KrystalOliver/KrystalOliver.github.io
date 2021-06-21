@@ -1,48 +1,36 @@
 
-   .content-front__wrapper {
-    
-    @media screen and (min-width: 55em) {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(25rem, 1fr));
-      margin: 1.35rem 0 0 1.5rem;
-      position: static;
-    }
+.content-front__wrapper {
+  margin-top: 4rem;
+
+  @media screen and (min-width: 55em) {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(25rem, 1fr));
+    margin: 2rem 0 0 1.5rem;
+    position: static;
   }
-  
-  .content-front__bg-color {
-    background-color: var(--light);
-    margin: 2rem auto 0;
-    width: 25rem;
+}
+
+.container__colored-small {
+  background-color: var(--light);
+  margin: 2rem auto 0;
+  width: 25rem;
+}
+
+.container__colored-big {
+  background-color: var(--light);
+  padding: 2rem;
+
+  @media screen and (min-width: 75em) {
+    display: inline-block;
+    margin: 1rem;
+    width: 30rem;
   }
-  
-  .content-about__layout {
-    align-content: center;
-    padding: 6rem 1rem 1rem 1rem;
-  
-    @media screen and (min-width: 43.7em) {
-      padding-top: 5rem;
-    }
+}
+
+.content-blogs__layout {
+  margin: 5rem 0 5rem 2rem;
+
+  @media screen and (min-width: 62.5em) {
+    margin: 5rem 10rem 10rem 6rem;
   }
-  
-  .content-about__layout-inline {
-    display: inline;
-  }
-  
-  .content-about__text-bgcolor {
-    background-color: var(--light);
-    padding: 2rem;
-  
-    @media screen and (min-width: 75em) {
-      display: inline-block;
-      margin: 0 1rem 0 10%;
-      width: 30rem;
-    }
-  }
-  
-  .content-blogs__layout {
-    margin: 5rem 0 5rem 2rem;
-  
-    @media screen and (min-width: 62.5em) {
-      margin: 5rem 10rem 10rem 6rem;
-    }
-  }
+}
