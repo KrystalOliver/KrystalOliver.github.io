@@ -1,0 +1,31 @@
+.banner-flex {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 2;
+  margin-bottom: 2rem;
+}
+
+.container__pill {
+  background-color: var(--white);
+  border-radius: 5rem;
+  font-family: var(--Playfair);
+  font-size: 1.58rem;
+  padding: .55rem 1.87rem;
+}
+
+.nav__img {
+  background-image: url("./Images.html/NavImg.jpg");
+  background-repeat: no-repeat;
+  background-size: 120rem 40rem;
+  height: 35rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.nav__img-small {
+  background-image: url("./Images.html/NavBarSmall.jpg");
+  background-repeat: no-repeat;
+  background-size: 121rem 10rem;
+}
