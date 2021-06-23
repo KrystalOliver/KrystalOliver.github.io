@@ -393,6 +393,9 @@ template {
   align-items: center;
   flex-wrap: wrap;
 }
+.bg-color__light {
+  background-color: var(--light);
+}
 .link--secondary {
   color: var(--link);
   font-family: var(--Roboto);
