@@ -1,0 +1,91 @@
+<!--FOR ALL NONHOME PAGES-->
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title></title>
+  <link rel="stylesheet" href="/index.31d26d56.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+  <header class="nav__img-small">
+    <nav class="navbar">
+      <div class="nav__navbar">
+        <Button class="nav__button">
+          <a href="/index.html" class="link--primary">
+            <b>Home</b>
+          </a>
+        </Button>
+        <Button class="nav__button">
+          <a href="/Blogs.html" class="link--primary">
+            <b>Blogs</b>
+          </a>
+        </Button>
+        <Button class="nav__button">
+          <a href="/About.html" class="link--primary">
+            <b>About</b>
+          </a>
+        </Button>
+      </div>
+    </nav>
+  </header>
+</body>
+<!--FOR ALL NONHOME PAGES-->
+
+<body style="background-color: #ECECEA;
+">
+  <div class="content-blogs__layout">
+    <p class="content__text-big left-align">BEM naming</p>
+    <p class="content__text-small">Posted on June 23, 2021</p>
+    <img class="image-blog" src="/BEMnaming.b289c331.jpg" alt="For Decoration, vase with leaves on left, words BEM naming on right">
+
+    <article class="content__text-regular">
+      <p class="has-dropcap">BEM stands for Block, Element, and Modifier and it is a naming convention for writing
+        cleaner and more readable CSS classes. It provides three specific benefits; it communicates purpose or function,
+        communicates component structure, and sets a consistent low-level of specificity for styling selectors. Because
+        of this it always has the same name in all technologies so it is consistent and meaningful enough that it is as
+        informative as possible for a developer.</p>
+      <p>The first part of the name is “Block” and they are independent, reusable, and usually bigger components of a
+        webpage. They encapsulate a standalone entity that is meaningful on it’s own, they can also have modifiers and
+        contain elements. These could be things like &#x0003C;header>, &#x0003C;nav>, &#x0003C;section>, &#x0003C;form>,
+        &#x0003C;article>, &#x0003C;footer> the most common blocks on every website today are header, content, sidebar,
+        footer, and search. Blocks in BEM are always a starting point of chaining your CSS classes onto. Take a look at
+        a few block examples: a content, a menu, a search form </p>
+      <p>.content{}</p>
+      <p>.menu{}</p>
+      <p>.search{}</p>
+      <p>A block is usually a single word but if you have longer block definition then it is divided with a single
+        hyphen:.lang-switcher{}</p>
+      <p>The next part is going to be the “Elements” part, and they are the children of blocks that perform a particular
+        function. An element can only have one parent block, and it can’t be used independently outside of that block.
+        Element names may consist of Latin letters, digits, dashes and underscores. The naming of an element must start
+        with its parent block name, two underscores after it, and then its own name and it should only make sense in the
+        context of its block: a content article, a menu item, a search input field</p>
+      <p>.content__article{}</p>
+      <p>.menu__item{}</p>
+      <p>.search__input{}</p>
+      <p>The last part of the BEM naming structure is the “Modifier” which represents different states or styles of
+        classes and it is how we represent the variations of a block. Such as a button size, which are size variations
+        of the button itself. Modifiers can be used for both blocks or elements and they are used to change appearance,
+        behavior or state. CSS class is formed as a block’s or element’s name plus two dashes: </p>
+      <p>.block--mod or .block__elem--mod and .block--color-red. </p>
+      <p>Spaces in complicated modifiers are replaced with a dash. In HTML a modifier must be used together with its
+        block/element as additional features:</p>
+      <p>.form--large {} // Block modifiers</p>
+      <p>.form--small {}</p>
+      <p>.form__button--red {} // Block Element Modifiers</p>
+      <p>.form__button--green {}</p>
+      <p>Using the examples from before a modifier might look like a: content featured article, menu link, search field
+        with or without an icon</p>
+      <p>.content__article--featured{}</p>
+      <p>.menu__item--link{}</p>
+      <p>.search__input--icon{}</p>
+      <p>The modifier name can also start with a single underscore: .lang-switcher__flag_basic{}.
+        The one vital rule in BEM methodology is that a modifier cannot be used outside of the context of its owner.
+      </p>
+    </article>
+    
+  </div>
+</body><script src="/BlogPosts/BEMnaming.c37c3c45.js"></script>
