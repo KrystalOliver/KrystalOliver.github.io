@@ -11,19 +11,19 @@
 }
 
 .container__colored-small {
-  background-color: var(--light);
+  background-color: $light;
   margin: 1rem auto;
   width: 25rem;
 }
 
 .container__colored-big {
-  background-color: var(--light);
+  background-color: $light;
   padding: 2rem;
 
   @media screen and (min-width: 75em) {
     display: inline-block;
     margin: 1rem;
-    width: 30rem;
+    width: 28rem;
   }
 }
 

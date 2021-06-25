@@ -15,17 +15,15 @@
 }
 
 .nav__button {
-  background-color: var(--white);
+  background-color: $white;
   border: none;
   border-radius: 3.12rem;
-  font-family: var(--Playfair);
-  font-size: 1.25rem;
-  margin: .625rem;
-  padding: .625rem 1.875rem;
-  size: 1.875rem;
-  text-align: center;
+  font-family: $Playfair;
+  font-size: 1.5rem;
+  margin: .5rem;
+  padding: .8rem 1.875rem;
 }
 
 .nav__button:hover {
-  background-color: var(--light);
+  background-color: $light;
 }
