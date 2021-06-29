@@ -1,11 +1,11 @@
 .link--secondary {
-  color: var(--link);
-  font-family: var(--Roboto);
+  color: $link;
+  font-family: $Roboto;
   font-size: 1.6rem;
   font-weight: bold;
 }
   
 .link--primary {
-  color: var(--black);
+  color: $black;
   text-decoration: none;
 }
