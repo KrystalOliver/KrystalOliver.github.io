@@ -1,14 +1,21 @@
+.image-unblurred {
+    transform: translateZ(0);
+}
+
 .image-front {
     height: 19rem;
     width: 25rem;
+    @extend .image-unblurred;
 }
   
 .image-front:hover {
-  opacity: 80%;
+    transform: scale(1.05);
+    transition: transform .3s ease-out,
 }
 
 .image-blog {
   width: 30rem;
+  @extend .image-unblurred;
 
   @media screen and (min-width: 62.5em) {
     height: 28rem;
